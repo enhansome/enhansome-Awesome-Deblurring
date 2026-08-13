@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Single-Image-Blind-Motion-Deblurring (non-DL)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Single-Image-Blind-Motion-Deblurring (DL)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Non-Blind-Deblurring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "(Multi-image/Video)-Motion-Deblurring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Challenges on Motion Deblurring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Depth-Aware Motion Deblurring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Closely Related Works"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defocus Deblurring and Potential Datasets"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:57:24.188Z",
+    "original_repository": "subeeshvasu/Awesome-Deblurring",
+    "original_repository_sha": "309c622a7be58f22068df62f53bc03183a8d0fd5",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Deblurring",
+    "enhanced_repository_description": null,
+    "title": "Awesome Deblurring with stars"
+  }
+}
