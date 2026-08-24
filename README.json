@@ -1,7 +1,2966 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "ICCV Class-Specific Image Deblurring Code & Project page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206481744,
+            "language": null,
+            "last_commit": "2019-09-05T05:30:49Z",
+            "owner": "saeed-anwar",
+            "repo": "Class_Specific_Deblurring",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "ECCV Normalized Blind Deconvolution Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169413542,
+            "language": "C",
+            "last_commit": "2019-04-27T07:48:42Z",
+            "owner": "MeiguangJin",
+            "repo": "NBD",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Blind Image Deblurring With Local Maximum Gradient Prior Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 308699724,
+            "language": "MATLAB",
+            "last_commit": "2020-10-30T17:34:19Z",
+            "owner": "cuiyixin555",
+            "repo": "LMG",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Phase-Only Image Based Kernel Estimation for Single Image Blind Deblurring Results-on-benchmark-datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174467536,
+            "language": "MATLAB",
+            "last_commit": "2021-06-24T04:43:14Z",
+            "owner": "panpanfei",
+            "repo": "Phase-only-Image-Based-Kernel-Estimation-for-Blind-Motion-Deblurring",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "TIP Graph-Based Blind Image Deblurring From a Single Photograph Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156074654,
+            "language": "MATLAB",
+            "last_commit": "2021-12-27T03:31:08Z",
+            "owner": "BYchao100",
+            "repo": "Graph-Based-Blind-Image-Deblurring",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "TCSVT Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189740198,
+            "language": "MATLAB",
+            "last_commit": "2021-08-07T03:24:57Z",
+            "owner": "FWen",
+            "repo": "deblur-pmp",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Single-Image-Blind-Motion-Deblurring (non-DL)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "CVPR Learning a convolutional neural network for non-uniform motion blur removal Code 1,Code 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100071721,
+            "language": "Python",
+            "last_commit": "2019-01-17T04:49:46Z",
+            "owner": "Sibozhu",
+            "repo": "MotionBlur-detection-by-CNN",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "ECCV A neural approach to blind motion deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54278833,
+            "language": "Matlab",
+            "last_commit": "2017-03-29T10:13:17Z",
+            "owner": "ayanc",
+            "repo": "ndeblur",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "CVPR Deep multi-scale convolutional neural network for dynamic scene deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75810967,
+            "language": "Lua",
+            "last_commit": "2020-09-08T02:34:05Z",
+            "owner": "SeungjunNah",
+            "repo": "DeepDeblur_release",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Deep Semantic Face Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148506934,
+            "language": "MATLAB",
+            "last_commit": "2020-07-09T12:53:55Z",
+            "owner": "joanshen0508",
+            "repo": "Deep-Semantic-Face-Deblurring",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145289054,
+            "language": "C++",
+            "last_commit": "2019-09-11T06:18:28Z",
+            "owner": "zhjwustc",
+            "repo": "cvpr18_rnn_deblur_matcaffe",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Scale-recurrent network for deep image deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134536421,
+            "language": "Python",
+            "last_commit": "2021-09-05T13:37:21Z",
+            "owner": "jiangsutx",
+            "repo": "SRN-Deblur",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Deblurgan: Blind motion deblurring using conditional adversarial networks Code-Pytorch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89488284,
+            "language": "Python",
+            "last_commit": "2019-12-25T18:40:00Z",
+            "owner": "KupynOrest",
+            "repo": "DeblurGAN",
+            "stars": 2639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "BMVC Gated Fusion Network for Joint Image Deblurring and Super-Resolution Code Project page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141246357,
+            "language": "Python",
+            "last_commit": "2021-02-22T02:23:03Z",
+            "owner": "jacquelinelala",
+            "repo": "GFN",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "WACV Gyroscope-Aided Motion Deblurring with Deep Networks Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162780826,
+            "language": "Python",
+            "last_commit": "2019-02-28T11:48:33Z",
+            "owner": "jannemus",
+            "repo": "DeepGyro",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Deep Stacked Hierarchical Multi-Patch Network for Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194650049,
+            "language": "Python",
+            "last_commit": "2023-01-28T13:00:59Z",
+            "owner": "HongguangZhang",
+            "repo": "DMPHN-cvpr19-master",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Unsupervised Domain-Specific Deblurring via Disentangled Representations Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173804910,
+            "language": "Python",
+            "last_commit": "2019-08-05T07:34:31Z",
+            "owner": "ustclby",
+            "repo": "Unsupervised-Domain-Specific-Deblurring",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Bringing Alive Blurred Moments Project page & Results-on-benchmark-datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 113830101,
+            "language": null,
+            "last_commit": "2020-07-15T00:58:37Z",
+            "owner": "anshulbshah",
+            "repo": "Blurred-Image-to-Video",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICCV DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201605934,
+            "language": "Python",
+            "last_commit": "2022-07-14T15:36:09Z",
+            "owner": "VITA-Group",
+            "repo": "DeblurGANv2",
+            "stars": 1192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "IJCV Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201605934,
+            "language": "Python",
+            "last_commit": "2022-07-14T15:36:09Z",
+            "owner": "VITA-Group",
+            "repo": "DeblurGANv2",
+            "stars": 1192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "CVPR Neural Blind Deconvolution Using Deep Priors Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200502236,
+            "language": "Python",
+            "last_commit": "2020-08-17T06:51:50Z",
+            "owner": "csdwren",
+            "repo": "SelfDeblur",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "CVPR Deblurring by Realistic Blurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346265200,
+            "language": "Python",
+            "last_commit": "2022-11-04T04:16:54Z",
+            "owner": "HDCVLab",
+            "repo": "Deblurring-by-Realistic-Blurring",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "TIP Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199096837,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:14:47Z",
+            "owner": "rajeevyasarla",
+            "repo": "UMSN-Face-Deblurring",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "TIP Dark and bright channel prior embedded network for dynamic scene deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163183865,
+            "language": "MATLAB",
+            "last_commit": "2020-07-15T19:02:40Z",
+            "owner": "csjcai",
+            "repo": "DBCPeNet",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "IEEEAccess Scale-Iterative Upscaling Network for Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213835916,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:29:39Z",
+            "owner": "minyuanye",
+            "repo": "SIUN",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "TMM Raw Image Deblurring Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307305486,
+            "language": null,
+            "last_commit": "2021-03-19T07:40:01Z",
+            "owner": "bob831009",
+            "repo": "raw_image_deblurring",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "TPAMI Exposure Trajectory Recovery from Motion Blur Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 381690722,
+            "language": "Python",
+            "last_commit": "2022-08-30T16:01:46Z",
+            "owner": "yjzhang96",
+            "repo": "Motion-ETR",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Arxiv BANet: Blur-aware Attention Networks for Dynamic Scene Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383003655,
+            "language": "Python",
+            "last_commit": "2024-07-02T02:55:14Z",
+            "owner": "pp00704831",
+            "repo": "BANet-TIP-2022",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR Multi-Stage Progressive Image Restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335918199,
+            "language": "Python",
+            "last_commit": "2024-04-18T08:04:26Z",
+            "owner": "swz30",
+            "repo": "MPRNet",
+            "stars": 1393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR DeFMO: Deblurring and Shape Recovery of Fast Moving Objects Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 336546141,
+            "language": "Python",
+            "last_commit": "2022-04-06T15:44:08Z",
+            "owner": "rozumden",
+            "repo": "DeFMO",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR Explore Image Deblurring via Encoded Blur Kernel Space Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352012426,
+            "language": "Python",
+            "last_commit": "2024-11-12T04:40:47Z",
+            "owner": "VinAIResearch",
+            "repo": "blur-kernel-space-exploring",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR Pre-trained image processing transformer Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357448742,
+            "language": "Python",
+            "last_commit": "2022-11-14T06:53:37Z",
+            "owner": "huawei-noah",
+            "repo": "Pretrained-IPT",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR Multi-stage progressive image restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335918199,
+            "language": "Python",
+            "last_commit": "2024-04-18T08:04:26Z",
+            "owner": "swz30",
+            "repo": "MPRNet",
+            "stars": 1393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPRW Hinet: Half instance normalization network for image restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 366617069,
+            "language": "Python",
+            "last_commit": "2022-04-12T05:29:37Z",
+            "owner": "megvii-model",
+            "repo": "HINet",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCV Rethinking Coarse-To-Fine Approach in Single Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 391812156,
+            "language": "Python",
+            "last_commit": "2021-11-12T04:37:20Z",
+            "owner": "chosj95",
+            "repo": "MIMO-UNet",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCVW Sdwnet: A straight dilated network with wavelet transformation for image deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 356229311,
+            "language": "Python",
+            "last_commit": "2021-10-17T07:04:45Z",
+            "owner": "FlyEgle",
+            "repo": "SDWNet",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Arxiv Non-uniform Blur Kernel Estimation via Adaptive Basis Decomposition Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 314518027,
+            "language": "Python",
+            "last_commit": "2022-05-23T12:38:55Z",
+            "owner": "GuillermoCarbajal",
+            "repo": "NonUniformBlurKernelEstimation",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Arxiv Deep residual fourier transformation for single image deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 427269445,
+            "language": "Python",
+            "last_commit": "2025-12-10T04:24:20Z",
+            "owner": "INVOKERer",
+            "repo": "DeepRFT",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR Restormer: Efficient transformer for high-resolution image restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 418793252,
+            "language": "Python",
+            "last_commit": "2025-10-23T13:41:29Z",
+            "owner": "swz30",
+            "repo": "Restormer",
+            "stars": 2625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR Maxim: Multi-axis mlp for image processing Code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 470020023,
+            "language": "Python",
+            "last_commit": "2023-06-09T18:15:50Z",
+            "owner": "google-research",
+            "repo": "maxim",
+            "stars": 1085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR Uformer: A general u-shaped transformer for image restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 373423349,
+            "language": "Python",
+            "last_commit": "2025-03-21T08:08:03Z",
+            "owner": "ZhendongWang6",
+            "repo": "Uformer",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR All-In-One Image Restoration for Unknown Corruption Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 465711329,
+            "language": "Python",
+            "last_commit": "2024-08-21T07:44:17Z",
+            "owner": "XLearning-SCU",
+            "repo": "2022-CVPR-AirNet",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR Deep Generalized Unfolding Networks for Image Restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470374498,
+            "language": "Python",
+            "last_commit": "2022-05-13T00:54:08Z",
+            "owner": "MC-E",
+            "repo": "Deep-Generalized-Unfolding-Networks-for-Image-Restoration",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Stripformer: Strip Transformer for Fast Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514513975,
+            "language": "Python",
+            "last_commit": "2024-09-18T01:50:48Z",
+            "owner": "pp00704831",
+            "repo": "Stripformer-ECCV-2022-",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Simple baselines for image restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 480003828,
+            "language": "Python",
+            "last_commit": "2024-07-03T13:26:24Z",
+            "owner": "megvii-research",
+            "repo": "NAFNet",
+            "stars": 3145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 510399168,
+            "language": "Python",
+            "last_commit": "2024-05-23T12:16:19Z",
+            "owner": "zhaoyuzhi",
+            "repo": "D2HNet",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Improving Image Restoration by Revisiting Global Information Aggregation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 436103485,
+            "language": "Python",
+            "last_commit": "2023-06-09T03:06:51Z",
+            "owner": "megvii-research",
+            "repo": "TLC",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 513045191,
+            "language": "Python",
+            "last_commit": "2024-03-28T06:51:02Z",
+            "owner": "zzh-tech",
+            "repo": "Animation-from-Blur",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Learning Degradation Representations for Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514993006,
+            "language": "Python",
+            "last_commit": "2023-05-28T04:04:54Z",
+            "owner": "dasongli1",
+            "repo": "Learning_degradation",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Event-based Fusion for Motion Deblurring with Cross-modal Attention Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514049544,
+            "language": "Python",
+            "last_commit": "2025-02-08T12:27:41Z",
+            "owner": "AHupuJR",
+            "repo": "EFNet",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ACCV Learning to Predict Decomposed Dynamic Filters for Single Image Motion Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 545214179,
+            "language": null,
+            "last_commit": "2022-12-01T14:19:52Z",
+            "owner": "ZHIQIANGHU2021",
+            "repo": "DecomposedDynamicFilters",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "AAAI Real-world deep local motion deblurring Code&Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 573350714,
+            "language": "Python",
+            "last_commit": "2025-05-28T11:39:51Z",
+            "owner": "LeiaLi",
+            "repo": "ReLoBlur",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "AAAI Intriguing Findings of Frequency Selection for Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 570137675,
+            "language": "Python",
+            "last_commit": "2023-02-16T04:41:55Z",
+            "owner": "DeepMed-Lab-ECNU",
+            "repo": "DeepRFT-AAAI2023",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Self-Supervised Non-Uniform Kernel Estimation With Flow-Based Motion Prior for Blind Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 613372625,
+            "language": "Python",
+            "last_commit": "2023-06-17T05:54:43Z",
+            "owner": "Fangzhenxuan",
+            "repo": "UFPDeblur",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Efficient Frequency Domain-Based Transformers for High-Quality Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 569153344,
+            "language": "Python",
+            "last_commit": "2025-04-21T15:09:29Z",
+            "owner": "kkkls",
+            "repo": "FFTformer",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Self-Supervised Blind Motion Deblurring With Deep Expectation Maximization Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666203092,
+            "language": "Python",
+            "last_commit": "2023-09-11T02:14:41Z",
+            "owner": "Chilie",
+            "repo": "Deblur_MCEM",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "NeurIPS Hierarchical Integration Diffusion Model for Realistic Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643897227,
+            "language": "Python",
+            "last_commit": "2025-01-15T08:04:04Z",
+            "owner": "zhengchen1999",
+            "repo": "HI-Diff",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Arxiv LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 596223279,
+            "language": "Python",
+            "last_commit": "2024-06-24T07:17:41Z",
+            "owner": "lingyanruan",
+            "repo": "LaKDNet",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 773101532,
+            "language": "Python",
+            "last_commit": "2025-11-04T16:33:21Z",
+            "owner": "VinAIResearch",
+            "repo": "Blur2Blur",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Motion-adaptive Separable Collaborative Filters for Blind Motion Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 738407958,
+            "language": "Python",
+            "last_commit": "2024-03-09T00:49:00Z",
+            "owner": "ChengxuLiu",
+            "repo": "MISCFilter",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Efficient Multi-scale Network with Learnable Discrete Wavelet Transform for Blind Motion Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 723901860,
+            "language": "Python",
+            "last_commit": "2024-07-29T16:55:29Z",
+            "owner": "thqiu0419",
+            "repo": "MLWNet",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 775935005,
+            "language": "Python",
+            "last_commit": "2024-07-27T12:35:21Z",
+            "owner": "aipixel",
+            "repo": "FourierDiff",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 786689363,
+            "language": "Python",
+            "last_commit": "2026-01-07T03:06:16Z",
+            "owner": "INVOKERer",
+            "repo": "AdaRevD",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 739400489,
+            "language": "Python",
+            "last_commit": "2026-07-03T06:52:18Z",
+            "owner": "KAIST-VICLab",
+            "repo": "FMA-Net",
+            "stars": 705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764644910,
+            "language": "Python",
+            "last_commit": "2024-07-29T10:07:25Z",
+            "owner": "plusgood-steven",
+            "repo": "ID-Blau",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Residual Denoising Diffusion Models Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 683069816,
+            "language": "Python",
+            "last_commit": "2026-06-09T05:59:59Z",
+            "owner": "nachifur",
+            "repo": "RDDM",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "IJCV Blind Image Deblurring with Unknown Kernel Size and Substantial Noise Project Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 522975353,
+            "language": null,
+            "last_commit": "2022-08-09T14:05:44Z",
+            "owner": "sun-umn",
+            "repo": "Blind-Image-Deblurring",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ECCV Motion Aware Event Representation-driven Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 829378291,
+            "language": "Python",
+            "last_commit": "2025-06-16T08:36:53Z",
+            "owner": "ZhijingS",
+            "repo": "DA_event_deblur",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Arxiv Efficient Image Deblurring Networks based on Diffusion Models Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 711459539,
+            "language": "Python",
+            "last_commit": "2024-05-10T10:30:22Z",
+            "owner": "bnm6900030",
+            "repo": "swintormer",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025",
+          "description": "CVPR Gyro-based Neural Single Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 947189356,
+            "language": "Python",
+            "last_commit": "2026-08-04T02:50:12Z",
+            "owner": "hmyang0727",
+            "repo": "GyroDeblurNet",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Single-Image-Blind-Motion-Deblurring (DL)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2011",
+          "description": "ICCV Handling outliers in non-blind image deconvolution Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46792990,
+            "language": "Matlab",
+            "last_commit": "2015-11-24T13:25:38Z",
+            "owner": "CoupeLibrary",
+            "repo": "handleoutlier",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2014",
+          "description": "CVPR Shrinkage fields for effective image restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19533527,
+            "language": "Matlab",
+            "last_commit": "2016-03-18T09:21:18Z",
+            "owner": "uschmidt83",
+            "repo": "shrinkage-fields",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "ICCP Fast non-blind deconvolution via regularized residual networks with long/short skip-connections Code, Project Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84529880,
+            "language": "C++",
+            "last_commit": "2021-03-29T08:15:39Z",
+            "owner": "HyeongseokSon1",
+            "repo": "CNN_deconvolution",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "CVPR Learning Deep CNN Denoiser Prior for Image Restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87288547,
+            "language": "MATLAB",
+            "last_commit": "2021-10-09T22:03:58Z",
+            "owner": "cszn",
+            "repo": "IRCNN",
+            "stars": 609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "CVPR Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145146726,
+            "language": "Matlab",
+            "last_commit": "2018-08-18T10:31:23Z",
+            "owner": "zhjwustc",
+            "repo": "cvpr17_iter_deblur_testing_matconvnet",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "ICCV Learning to push the limits of efficient fft-based image deconvolution Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106993499,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-01-09T10:38:26Z",
+            "owner": "uschmidt83",
+            "repo": "fourier-deconvolution-network",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "NIPS Deep Mean-Shift Priors for Image Restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105121429,
+            "language": "MATLAB",
+            "last_commit": "2020-12-30T11:59:01Z",
+            "owner": "siavashBigdeli",
+            "repo": "DMSP",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Non-blind Deblurring: Handling Kernel Uncertainty with CNNs Project page & Results-on-benchmark-datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148875221,
+            "language": null,
+            "last_commit": "2018-09-20T17:44:24Z",
+            "owner": "subeeshvasu",
+            "repo": "2018_subeesh_nbd_cvpr",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Deep image prior Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112535474,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-27T03:47:44Z",
+            "owner": "DmitryUlyanov",
+            "repo": "deep-image-prior",
+            "stars": 8088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "NIPS Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147979813,
+            "language": "MATLAB",
+            "last_commit": "2018-12-21T15:18:36Z",
+            "owner": "rwenqi",
+            "repo": "NBD-GLRA",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICLR Deep decoder: Concise image representations from untrained non-convolutional networks Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151305246,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-03-03T05:39:14Z",
+            "owner": "reinhardh",
+            "repo": "supplement_deep_decoder",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172680412,
+            "language": "Python",
+            "last_commit": "2020-09-03T08:40:00Z",
+            "owner": "cszn",
+            "repo": "DPSR",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242944134,
+            "language": "Python",
+            "last_commit": "2022-01-27T06:52:14Z",
+            "owner": "ysnan",
+            "repo": "VEM-NBD",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project page & Results-on-benchmark-datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242944134,
+            "language": "Python",
+            "last_commit": "2022-01-27T06:52:14Z",
+            "owner": "ysnan",
+            "repo": "VEM-NBD",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning for Handling Kernel/model Uncertainty in Image Deconvolution",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242943565,
+            "language": "Python",
+            "last_commit": "2020-08-02T10:58:35Z",
+            "owner": "ysnan",
+            "repo": "NBD_KerUnc",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project page & Results-on-benchmark-datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242943565,
+            "language": "Python",
+            "last_commit": "2020-08-02T10:58:35Z",
+            "owner": "ysnan",
+            "repo": "NBD_KerUnc",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "EUSIPCO Bp-dip: A backprojection based deep image prior Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274583756,
+            "language": "Python",
+            "last_commit": "2020-06-24T06:01:09Z",
+            "owner": "jennyzu",
+            "repo": "BP-DIP-deblurring",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "TNLS Learning deep gradient descent optimization for image deconvolution Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137915782,
+            "language": "Python",
+            "last_commit": "2020-08-17T01:47:05Z",
+            "owner": "donggong1",
+            "repo": "learn-optimizer-rgdn",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "TCI Neumann networks for linear inverse problems in imaging Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199484227,
+            "language": "Python",
+            "last_commit": "2020-12-22T17:35:18Z",
+            "owner": "dgilton",
+            "repo": "neumann_networks_code",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR Deep Constrained Least Squares for Blind Image Super-Resolution Project Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 459225545,
+            "language": null,
+            "last_commit": "2022-07-10T07:14:58Z",
+            "owner": "Algolzw",
+            "repo": "DCLS",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "SPIC Black-box image deblurring and defiltering CodeMatlab, CodePy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 476889230,
+            "language": "MATLAB",
+            "last_commit": "2025-09-09T06:21:34Z",
+            "owner": "fayolle",
+            "repo": "bbDeblur",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "TCI Photon Limited Non-Blind Deblurring Using Algorithm Unrolling Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425019012,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-28T05:18:28Z",
+            "owner": "sanghviyashiitb",
+            "repo": "poisson-deblurring",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "WACV Wiener Guided DIP for Unsupervised Blind Image Deconvolution Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439895041,
+            "language": "Python",
+            "last_commit": "2021-12-19T15:36:01Z",
+            "owner": "gbredell",
+            "repo": "W_DIP",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 608041637,
+            "language": "Python",
+            "last_commit": "2025-10-22T10:41:30Z",
+            "owner": "xl-tang3",
+            "repo": "UAUDeblur",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "SIVP Reverse image filtering with clean and noisy filters Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 496535803,
+            "language": "MATLAB",
+            "last_commit": "2025-09-09T06:15:35Z",
+            "owner": "fayolle",
+            "repo": "clean_noisy_defilter",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "TIP INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 503334424,
+            "language": "Python",
+            "last_commit": "2023-03-01T13:36:19Z",
+            "owner": "zhihongz",
+            "repo": "INFWIDE",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "TPAMI Blind Image Deconvolution Using Variational Deep Image Prior Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 453607553,
+            "language": "Python",
+            "last_commit": "2023-12-27T15:45:36Z",
+            "owner": "Dong-Huo",
+            "repo": "VDIP-Deconvolution",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ACM MM LoFormer: Local Frequency Transformer for Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 814918764,
+            "language": "Python",
+            "last_commit": "2025-12-10T04:23:47Z",
+            "owner": "INVOKERer",
+            "repo": "LoFormer",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Non-Blind-Deblurring"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "CVPR Deep Video Deblurring for Hand-Held Cameras Code Project page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84044731,
+            "language": "MATLAB",
+            "last_commit": "2019-04-02T18:34:05Z",
+            "owner": "shuochsu",
+            "repo": "DeepVideoDeblurring",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "CVPR Light Field Blind Motion Deblurring code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88196607,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-23T01:32:46Z",
+            "owner": "pratulsrinivasan",
+            "repo": "Light_Field_Blind_Motion_Deblurring",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136587655,
+            "language": "Python",
+            "last_commit": "2020-11-25T16:02:25Z",
+            "owner": "themathgeek13",
+            "repo": "STdeblur",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project page",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158182774,
+            "language": null,
+            "last_commit": "2018-09-20T06:22:39Z",
+            "owner": "JLtwoP",
+            "repo": "Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR DAVANet: Stereo Deblurring With View Aggregation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179906228,
+            "language": "Python",
+            "last_commit": "2023-07-22T02:24:14Z",
+            "owner": "sczhou",
+            "repo": "DAVANet",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICCV Spatio-Temporal Filter Adaptive Network for Video Deblurring Project page, Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197610250,
+            "language": "Python",
+            "last_commit": "2020-10-27T03:23:13Z",
+            "owner": "sczhou",
+            "repo": "STFAN",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICCV Face Video Deblurring using 3D Facial Priors Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208741001,
+            "language": "Python",
+            "last_commit": "2020-01-15T09:08:33Z",
+            "owner": "rwenqi",
+            "repo": "3Dfacedeblurring",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICCV_W Deep Video Deblurring: The Devil is in the Details Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213921000,
+            "language": "Python",
+            "last_commit": "2019-11-01T15:08:49Z",
+            "owner": "visinf",
+            "repo": "deblur-devil",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "CVPR Cascaded Deep Video Deblurring Using Temporal Sharpness Prior Code Project Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242693720,
+            "language": "Python",
+            "last_commit": "2021-08-06T02:27:31Z",
+            "owner": "csbhr",
+            "repo": "CDVD-TSP",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "CVPR Blurry Video Frame Interpolation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215352518,
+            "language": "Python",
+            "last_commit": "2020-10-21T08:48:17Z",
+            "owner": "laomao0",
+            "repo": "BIN",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "ECCV Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280470606,
+            "language": "Python",
+            "last_commit": "2023-06-25T21:06:00Z",
+            "owner": "zzh-tech",
+            "repo": "ESTRNN",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "TOG Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346270894,
+            "language": "Python",
+            "last_commit": "2024-04-02T21:58:07Z",
+            "owner": "codeslake",
+            "repo": "PVDNet",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR Deblur-NeRF: Neural Radiance Fields From Blurry Images Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 474624119,
+            "language": "Python",
+            "last_commit": "2024-06-28T03:45:30Z",
+            "owner": "limacv",
+            "repo": "Deblur-NeRF",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Improving Image Restoration by Revisiting Global Information Aggregation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 436103485,
+            "language": "Python",
+            "last_commit": "2023-06-09T03:06:51Z",
+            "owner": "megvii-research",
+            "repo": "TLC",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 513045191,
+            "language": "Python",
+            "last_commit": "2024-03-28T06:51:02Z",
+            "owner": "zzh-tech",
+            "repo": "Animation-from-Blur",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Efficient Video Deblurring Guided by Motion Magnitude Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 513733465,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-05T07:46:50Z",
+            "owner": "sollynoay",
+            "repo": "MMP-RNN",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Spatio-Temporal Deformable Attention Network for Video Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 512444810,
+            "language": "Python",
+            "last_commit": "2023-01-02T04:59:01Z",
+            "owner": "huicongzhang",
+            "repo": "STDAN",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV ERDN: Equivalent Receptive Field Deformable Network for Video Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 515572022,
+            "language": "Python",
+            "last_commit": "2025-07-07T12:31:38Z",
+            "owner": "TencentCloud",
+            "repo": "ERDN",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429324653,
+            "language": "Python",
+            "last_commit": "2023-02-01T12:39:51Z",
+            "owner": "JihyongOh",
+            "repo": "DeMFI",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CGF Real-Time Video Deblurring via Lightweight Motion Compensation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 535909137,
+            "language": "Python",
+            "last_commit": "2024-04-02T22:02:29Z",
+            "owner": "codeslake",
+            "repo": "RealTime_VDBLR",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "IJCV Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280470606,
+            "language": "Python",
+            "last_commit": "2023-06-25T21:06:00Z",
+            "owner": "zzh-tech",
+            "repo": "ESTRNN",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sharp-NeRF: Grid-Based Fast Deblurring Neural Radiance Fields Using Sharpness Prior",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 713349478,
+            "language": "Python",
+            "last_commit": "2024-09-25T12:21:27Z",
+            "owner": "radimspetlik",
+            "repo": "SI-DDPM-FMO",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 715558221,
+            "language": "Python",
+            "last_commit": "2024-01-04T19:28:40Z",
+            "owner": "benhenryL",
+            "repo": "SharpNeRF",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Blur Interpolation Transformer for Real-World Motion from Blur Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 610274347,
+            "language": "Python",
+            "last_commit": "2024-03-28T06:30:36Z",
+            "owner": "zzh-tech",
+            "repo": "BiT",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 609899421,
+            "language": "Python",
+            "last_commit": "2023-10-08T08:56:12Z",
+            "owner": "dogyoonlee",
+            "repo": "DP-NeRF",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields Code&Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617065573,
+            "language": "Python",
+            "last_commit": "2023-12-21T09:35:01Z",
+            "owner": "WU-CVGL",
+            "repo": "BAD-NeRF",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Joint Video Multi-Frame Interpolation and Deblurring Under Unknown Exposure Time Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614660938,
+            "language": "Python",
+            "last_commit": "2024-03-06T07:42:28Z",
+            "owner": "shangwei5",
+            "repo": "VIDUE",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Deep Discriminative Spatial and Temporal Network for Efficient Video Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616280349,
+            "language": "Python",
+            "last_commit": "2025-05-19T03:09:07Z",
+            "owner": "xuboming8",
+            "repo": "DSTNet",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICCV E2NeRF: Event Enhanced Neural Radiance Fields from Blurry Images Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670715884,
+            "language": "Python",
+            "last_commit": "2025-12-11T12:16:02Z",
+            "owner": "iCVTEAM",
+            "repo": "E2NeRF",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764493023,
+            "language": "Python",
+            "last_commit": "2025-03-05T12:46:53Z",
+            "owner": "huicongzhang",
+            "repo": "BSSTNet",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Mitigating Motion Blur in Neural Radiance Fields with Events and Frames Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777672226,
+            "language": "Python",
+            "last_commit": "2024-06-12T16:59:58Z",
+            "owner": "uzh-rpg",
+            "repo": "EvDeblurNeRF",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ECCV Rethinking video deblurring with waveletaware dynamic transformer and diffusion model Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 828089097,
+            "language": "Python",
+            "last_commit": "2025-01-06T13:28:49Z",
+            "owner": "Chen-Rao",
+            "repo": "VD-Diff",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "NeurIPS Learning Truncated Causal History Model for Video Restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 864255692,
+            "language": "Python",
+            "last_commit": "2026-02-18T03:51:31Z",
+            "owner": "Ascend-Research",
+            "repo": "Turtle",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "(Multi-image/Video)-Motion-Deblurring"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2014",
+          "description": "CVPR Joint Depth Estimation and Camera Shake Removal from Single Blurry Image Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161004961,
+            "language": "Python",
+            "last_commit": "2019-03-20T17:02:00Z",
+            "owner": "chaehomie",
+            "repo": "Joint_Depth_Esimation_and_Deblur",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR DAVANet: Stereo Deblurring With View Aggregation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179906228,
+            "language": "Python",
+            "last_commit": "2023-07-22T02:24:14Z",
+            "owner": "sczhou",
+            "repo": "DAVANet",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Deep Lidar-guided Image Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1020763964,
+            "language": "Python",
+            "last_commit": "2025-10-21T16:13:44Z",
+            "owner": "diegovalsesia",
+            "repo": "lidardeblurring",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Depth-Aware Motion Deblurring"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2000",
+          "description": "Multiframe Restoration Methods for Image Synthesis and Recovery, Joseph J. Green, Univ. of Arizona, PhD thesis Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 433612928,
+            "language": "Python",
+            "last_commit": "2023-08-14T15:43:31Z",
+            "owner": "nasa-jpl",
+            "repo": "pmapper",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Learning to extract a video sequence from a single motion-blurred image Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151062709,
+            "language": "Python",
+            "last_commit": "2019-04-27T07:49:11Z",
+            "owner": "MeiguangJin",
+            "repo": "Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159244641,
+            "language": "MATLAB",
+            "last_commit": "2022-05-18T19:21:49Z",
+            "owner": "panpanfei",
+            "repo": "Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Learning to Extract Flawless Slow Motion From Blurry Videos Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178368762,
+            "language": "Python",
+            "last_commit": "2021-04-09T10:19:28Z",
+            "owner": "MeiguangJin",
+            "repo": "slow-motion",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Learning to Synthesize Motion Blur Code, Project page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151619717,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-21T19:58:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICCV FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202551237,
+            "language": "Python",
+            "last_commit": "2020-11-05T05:55:55Z",
+            "owner": "KeqiangSun",
+            "repo": "FAB",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "NIPS Watch out! Motion is Blurring Blurring the Vision of Your Deep Neural Networks Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305412291,
+            "language": "Python",
+            "last_commit": "2020-10-22T08:02:36Z",
+            "owner": "tsingqguo",
+            "repo": "ABBA",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352722989,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-25T21:04:39Z",
+            "owner": "zzh-tech",
+            "repo": "RSCD",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCV Motion Deblurring With Real Events Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 433504850,
+            "language": "Python",
+            "last_commit": "2021-12-08T15:38:08Z",
+            "owner": "xufangchn",
+            "repo": "Motion-Deblurring-with-Real-Events",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCV Bringing Events Into Video Deblurring With Non-Consecutively Blurry Frames Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 394828703,
+            "language": "Python",
+            "last_commit": "2022-01-14T16:04:40Z",
+            "owner": "shangwei5",
+            "repo": "D2Net",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 513045191,
+            "language": "Python",
+            "last_commit": "2024-03-28T06:51:02Z",
+            "owner": "zzh-tech",
+            "repo": "Animation-from-Blur",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Realistic Blur Synthesis for Learning Image Deblurring Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514479092,
+            "language": "Python",
+            "last_commit": "2026-02-22T05:12:47Z",
+            "owner": "rimchang",
+            "repo": "RSBlur",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Blur Interpolation Transformer for Real-World Motion from Blur Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 610274347,
+            "language": "Python",
+            "last_commit": "2024-03-28T06:30:36Z",
+            "owner": "zzh-tech",
+            "repo": "BiT",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Improving Robustness of Semantic Segmentation to Motion-Blur Using Class-Centric Augmentation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 646813660,
+            "language": "Python",
+            "last_commit": "2023-10-25T16:40:22Z",
+            "owner": "aka-discover",
+            "repo": "CCMBA_CVPR23",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023]",
+          "description": "CVPR Recovering 3D Hand Mesh Sequence From a Single Blurry Image: A New Dataset and Temporal Unfolding Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616329770,
+            "language": "Python",
+            "last_commit": "2023-05-12T07:01:00Z",
+            "owner": "JaehaKim97",
+            "repo": "BlurHand_RELEASE",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Blur Interpolation Transformer for Real-World Motion from Blur Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 610274347,
+            "language": "Python",
+            "last_commit": "2024-03-28T06:30:36Z",
+            "owner": "zzh-tech",
+            "repo": "BiT",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Event-Based Frame Interpolation with Ad-hoc Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618177685,
+            "language": "Python",
+            "last_commit": "2025-02-23T22:53:01Z",
+            "owner": "AHupuJR",
+            "repo": "REFID",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR HyperCUT: Video Sequence From a Single Blurry Image Using Unsupervised Ordering Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617334646,
+            "language": "Python",
+            "last_commit": "2025-11-04T16:25:38Z",
+            "owner": "VinAIResearch",
+            "repo": "HyperCUT",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Event-Based Blurry Frame Interpolation Under Blind Exposure Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617518385,
+            "language": "Python",
+            "last_commit": "2023-06-21T01:34:02Z",
+            "owner": "WarranWeng",
+            "repo": "EBFI-BE",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICCV Generalizing Event-Based Motion Deblurring in Real-World Scenarios Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 657658870,
+            "language": "Python",
+            "last_commit": "2024-05-18T07:34:19Z",
+            "owner": "XiangZ-0",
+            "repo": "GEM",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "WACV Single-Image Deblurring, Trajectory and Shape Recovery of Fast Moving Objects with Denoising Diffusion Probabilistic Models Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 713349478,
+            "language": "Python",
+            "last_commit": "2024-09-25T12:21:27Z",
+            "owner": "radimspetlik",
+            "repo": "SI-DDPM-FMO",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Spike-guided Motion Deblurring with Unknown Modal Spatiotemporal Alignment Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 775252149,
+            "language": null,
+            "last_commit": "2024-05-06T14:18:33Z",
+            "owner": "Leozhangjiyuan",
+            "repo": "UaSDN",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Motion Blur Decomposition with Cross-shutter Guidance Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777245296,
+            "language": "Python",
+            "last_commit": "2025-06-09T14:07:18Z",
+            "owner": "jixiang2016",
+            "repo": "dualBR",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Other Closely Related Works"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "Spatially Variant Defocus Blur Map Estimation and Deblurring from a Single Image Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69352904,
+            "language": "C",
+            "last_commit": "2016-09-27T12:22:25Z",
+            "owner": "ZHANGXinxinPKU",
+            "repo": "defocus-deblurring",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "CVPR Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88660245,
+            "language": "Matlab",
+            "last_commit": "2017-05-25T21:08:25Z",
+            "owner": "isalirezag",
+            "repo": "HiFST",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "CVPR A unified approach of multi-scale deep and hand-crafted features for defocus estimation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85654543,
+            "language": "MATLAB",
+            "last_commit": "2019-09-17T08:58:14Z",
+            "owner": "zzangjinsun",
+            "repo": "DHDE_CVPR17",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "ICCV Learning to Synthesize a 4D RGBD Light Field from a Single Image Dataset and Project Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108109387,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-03T00:08:40Z",
+            "owner": "pratulsrinivasan",
+            "repo": "Local_Light_Field_Synthesis",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "ECCV_W Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks? Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141446121,
+            "language": "Python",
+            "last_commit": "2022-07-07T13:24:09Z",
+            "owner": "marcelampc",
+            "repo": "d3net_depth_estimation",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "PG Defocus and Motion Blur Detection with Deep Contextual Features Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144997300,
+            "language": "Python",
+            "last_commit": "2021-04-05T03:56:29Z",
+            "owner": "HyeongseokSon1",
+            "repo": "deep_blur_detection_and_classification",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "TIP Edge-based defocus blur estimation with adaptive scale selection Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128910117,
+            "language": "Python",
+            "last_commit": "2023-02-05T13:33:01Z",
+            "owner": "alikaraali",
+            "repo": "edge-based-dfe-tip2018",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Deep Defocus Map Estimation using Domain Adaptation Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198175719,
+            "language": "Python",
+            "last_commit": "2024-08-30T23:56:54Z",
+            "owner": "codeslake",
+            "repo": "DMENet",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "ECCV Defocus Deblurring Using Dual-Pixel Data Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260172775,
+            "language": "Python",
+            "last_commit": "2022-02-16T14:00:54Z",
+            "owner": "Abdullah-Abuolaim",
+            "repo": "defocus-deblurring-dual-pixel",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "ECCV Defocus Blur Detection via Depth Distillation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268403861,
+            "language": "Python",
+            "last_commit": "2022-03-18T12:41:34Z",
+            "owner": "vinthony",
+            "repo": "depth-distillation",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "TCI AIFNet: All-in-focus Image Restoration Network using a Light Field-based Dataset Code,Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378105019,
+            "language": "Python",
+            "last_commit": "2021-09-07T23:17:44Z",
+            "owner": "binorchen",
+            "repo": "AIFNET",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR Iterative Filter Adaptive Network for Single Image Defocus Deblurring Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334876939,
+            "language": "Python",
+            "last_commit": "2024-07-02T12:01:53Z",
+            "owner": "codeslake",
+            "repo": "IFAN",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR Self-Generated Defocus Blur Detection via Dual Adversarial Discriminators Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350211677,
+            "language": "Python",
+            "last_commit": "2022-05-24T09:50:47Z",
+            "owner": "shangcai1",
+            "repo": "SG",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 343990424,
+            "language": "Python",
+            "last_commit": "2022-04-24T14:50:51Z",
+            "owner": "panpanfei",
+            "repo": "Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPRW Attention! Stay Focus! Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 349728972,
+            "language": "Python",
+            "last_commit": "2022-02-09T05:23:17Z",
+            "owner": "tuvovan",
+            "repo": "ATTSF",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCV Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 400374124,
+            "language": "Python",
+            "last_commit": "2021-08-27T06:26:34Z",
+            "owner": "HyeongseokSon1",
+            "repo": "KPAC",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCV Learning To Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318603009,
+            "language": "Python",
+            "last_commit": "2022-02-16T13:52:55Z",
+            "owner": "Abdullah-Abuolaim",
+            "repo": "recurrent-defocus-deblurring-synth-dual-pixel",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "WACV Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 394848129,
+            "language": "Python",
+            "last_commit": "2022-02-16T16:38:11Z",
+            "owner": "Abdullah-Abuolaim",
+            "repo": "multi-task-defocus-deblurring-dual-pixel-nimat",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR Learning to Deblur Using Light Field Generated and Real Defocus Images Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 464179596,
+            "language": "Python",
+            "last_commit": "2022-12-01T18:42:52Z",
+            "owner": "lingyanruan",
+            "repo": "DRBNet",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV United Defocus Blur Detection and Deblurring via Adversarial Promoting Learning Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 511794837,
+            "language": "Python",
+            "last_commit": "2023-10-12T05:13:59Z",
+            "owner": "wdzhao123",
+            "repo": "APL",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "AAAI Learning Single Image Defocus Deblurring with Misaligned Training Pairs Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 571144747,
+            "language": "Python",
+            "last_commit": "2022-11-27T10:44:59Z",
+            "owner": "liyucs",
+            "repo": "JDRL",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Better \"CMOS\" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617933421,
+            "language": "Python",
+            "last_commit": "2024-03-19T09:35:14Z",
+            "owner": "ByChelsea",
+            "repo": "CMOS",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Neumann Network With Recursive Kernels for Single Image Defocus Deblurring Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617751152,
+            "language": "Python",
+            "last_commit": "2024-04-24T01:48:04Z",
+            "owner": "csZcWu",
+            "repo": "NRKNet",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "IJCV End-to-end Alternating Optimization for Real-World Blind Super Resolution Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 665844646,
+            "language": "Python",
+            "last_commit": "2023-12-18T05:18:10Z",
+            "owner": "greatlog",
+            "repo": "RealDAN",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Arxiv LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 596223279,
+            "language": "Python",
+            "last_commit": "2024-06-24T07:17:41Z",
+            "owner": "lingyanruan",
+            "repo": "LaKDNet",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766109620,
+            "language": "Python",
+            "last_commit": "2025-06-03T09:45:51Z",
+            "owner": "PieceZhang",
+            "repo": "MPT-CataBlur",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766524534,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-03T19:15:10Z",
+            "owner": "noxsine",
+            "repo": "LDP",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Defocus Deblurring and Potential Datasets"
+    },
+    {
+      "description": "Abbreviations:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "CVPR (GOPRO) Deep multi-scale convolutional neural network for dynamic scene deblurring Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75810967,
+            "language": "Lua",
+            "last_commit": "2020-09-08T02:34:05Z",
+            "owner": "SeungjunNah",
+            "repo": "DeepDeblur_release",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICCV (HIDE) Human-Aware Motion Deblurring Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200666238,
+            "language": null,
+            "last_commit": "2019-12-23T06:29:19Z",
+            "owner": "joanshen0508",
+            "repo": "HA_deblur",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "CVPR Deblurring by Realistic Blurring Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346265200,
+            "language": "Python",
+            "last_commit": "2022-11-04T04:16:54Z",
+            "owner": "HDCVLab",
+            "repo": "Deblurring-by-Realistic-Blurring",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "ECCV (BSD) Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280470606,
+            "language": "Python",
+            "last_commit": "2023-06-25T21:06:00Z",
+            "owner": "zzh-tech",
+            "repo": "ESTRNN",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR (BS-RSCD) Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352722989,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-25T21:04:39Z",
+            "owner": "zzh-tech",
+            "repo": "RSCD",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Arxiv MC-Blur: A Comprehensive Benchmark for Image Deblurring Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 498983532,
+            "language": "Python",
+            "last_commit": "2025-03-31T01:51:20Z",
+            "owner": "HDCVLab",
+            "repo": "MC-Blur-Dataset",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Realistic Blur Synthesis for Learning Image Deblurring Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514479092,
+            "language": "Python",
+            "last_commit": "2026-02-22T05:12:47Z",
+            "owner": "rimchang",
+            "repo": "RSBlur",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "IJCV (BSD) Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280470606,
+            "language": "Python",
+            "last_commit": "2023-06-25T21:06:00Z",
+            "owner": "zzh-tech",
+            "repo": "ESTRNN",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR (RBI) Blur Interpolation Transformer for Real-World Motion from Blur Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 610274347,
+            "language": "Python",
+            "last_commit": "2024-03-28T06:30:36Z",
+            "owner": "zzh-tech",
+            "repo": "BiT",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "AAAI Real-world deep local motion deblurring Code&Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 573350714,
+            "language": "Python",
+            "last_commit": "2025-05-28T11:39:51Z",
+            "owner": "LeiaLi",
+            "repo": "ReLoBlur",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Benchmark Datasets on Motion Deblurring"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:31:55.765Z",
+    "last_updated": "2026-08-24T14:00:43.301Z",
     "original_repository": "subeeshvasu/Awesome-Deblurring",
     "original_repository_id": 197458822,
     "original_repository_sha": "309c622a7be58f22068df62f53bc03183a8d0fd5",
