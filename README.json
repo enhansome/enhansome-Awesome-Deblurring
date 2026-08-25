@@ -201,7 +201,7 @@
             "last_commit": "2019-12-25T18:40:00Z",
             "owner": "KupynOrest",
             "repo": "DeblurGAN",
-            "stars": 2639
+            "stars": 2638
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2022-08-30T16:01:46Z",
             "owner": "yjzhang96",
             "repo": "Motion-ETR",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -2115,7 +2115,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38614
+            "stars": 38616
           }
         },
         {
@@ -2960,7 +2960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:15.144Z",
+    "last_updated": "2026-08-25T10:25:38.036Z",
     "original_repository": "subeeshvasu/Awesome-Deblurring",
     "original_repository_id": 197458822,
     "original_repository_sha": "309c622a7be58f22068df62f53bc03183a8d0fd5",
