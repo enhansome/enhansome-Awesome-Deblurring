@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2015",
-          "description": "ICCV Class-Specific Image Deblurring Code & Project page",
+          "title": "Code & Project page",
+          "description": "ICCV Class-Specific Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ECCV Normalized Blind Deconvolution Code",
+          "title": "MeiguangJin/NBD",
+          "description": "ECCV Normalized Blind Deconvolution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Blind Image Deblurring With Local Maximum Gradient Prior Code",
+          "title": "cuiyixin555/LMG",
+          "description": "CVPR Blind Image Deblurring With Local Maximum Gradient Prior",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Phase-Only Image Based Kernel Estimation for Single Image Blind Deblurring Results-on-benchmark-datasets",
+          "title": "Results-on-benchmark-datasets",
+          "description": "CVPR Phase-Only Image Based Kernel Estimation for Single Image Blind Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "TIP Graph-Based Blind Image Deblurring From a Single Photograph Code",
+          "title": "BYchao100/Graph-Based-Blind-Image-Deblurring",
+          "description": "TIP Graph-Based Blind Image Deblurring From a Single Photograph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "TCSVT Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization Code",
+          "title": "FWen/deblur-pmp",
+          "description": "TCSVT Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,8 +101,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2015",
-          "description": "CVPR Learning a convolutional neural network for non-uniform motion blur removal Code 1,Code 2",
+          "title": "Code 1",
+          "description": ",Code 2 CVPR Learning a convolutional neural network for non-uniform motion blur removal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -116,8 +116,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "ECCV A neural approach to blind motion deblurring Code",
+          "title": "ayanc/ndeblur",
+          "description": "ECCV A neural approach to blind motion deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,8 +131,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR Deep multi-scale convolutional neural network for dynamic scene deblurring Code",
+          "title": "SeungjunNah/DeepDeblur_release",
+          "description": "CVPR Deep multi-scale convolutional neural network for dynamic scene deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,8 +146,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Deep Semantic Face Deblurring Code",
+          "title": "joanshen0508/Deep-Semantic-Face-Deblurring",
+          "description": "CVPR Deep Semantic Face Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,8 +161,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks Code",
+          "title": "zhjwustc/cvpr18_rnn_deblur_matcaffe",
+          "description": "CVPR Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -176,8 +176,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Scale-recurrent network for deep image deblurring Code",
+          "title": "jiangsutx/SRN-Deblur",
+          "description": "CVPR Scale-recurrent network for deep image deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -191,8 +191,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Deblurgan: Blind motion deblurring using conditional adversarial networks Code-Pytorch",
+          "title": "Code-Pytorch",
+          "description": "CVPR Deblurgan: Blind motion deblurring using conditional adversarial networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -206,8 +206,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "BMVC Gated Fusion Network for Joint Image Deblurring and Super-Resolution Code Project page",
+          "title": "jacquelinelala/GFN",
+          "description": "BMVC Gated Fusion Network for Joint Image Deblurring and Super-Resolution Project page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,8 +221,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "WACV Gyroscope-Aided Motion Deblurring with Deep Networks Code",
+          "title": "jannemus/DeepGyro",
+          "description": "WACV Gyroscope-Aided Motion Deblurring with Deep Networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,8 +236,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Deep Stacked Hierarchical Multi-Patch Network for Image Deblurring Code",
+          "title": "HongguangZhang/DMPHN-cvpr19-master",
+          "description": "CVPR Deep Stacked Hierarchical Multi-Patch Network for Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,8 +251,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Unsupervised Domain-Specific Deblurring via Disentangled Representations Code",
+          "title": "ustclby/Unsupervised-Domain-Specific-Deblurring",
+          "description": "CVPR Unsupervised Domain-Specific Deblurring via Disentangled Representations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,8 +266,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Bringing Alive Blurred Moments Project page & Results-on-benchmark-datasets",
+          "title": "Project page & Results-on-benchmark-datasets",
+          "description": "CVPR Bringing Alive Blurred Moments",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,8 +281,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICCV DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better Code",
+          "title": "VITA-Group/DeblurGANv2",
+          "description": "ICCV DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,8 +296,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "IJCV Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement Code",
+          "title": "VITA-Group/DeblurGANv2",
+          "description": "IJCV Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,8 +311,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPR Neural Blind Deconvolution Using Deep Priors Code",
+          "title": "csdwren/SelfDeblur",
+          "description": "CVPR Neural Blind Deconvolution Using Deep Priors",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,8 +326,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPR Deblurring by Realistic Blurring Code",
+          "title": "HDCVLab/Deblurring-by-Realistic-Blurring",
+          "description": "CVPR Deblurring by Realistic Blurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "TIP Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks Code",
+          "title": "rajeevyasarla/UMSN-Face-Deblurring",
+          "description": "TIP Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,8 +356,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "TIP Dark and bright channel prior embedded network for dynamic scene deblurring Code",
+          "title": "csjcai/DBCPeNet",
+          "description": "TIP Dark and bright channel prior embedded network for dynamic scene deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -371,8 +371,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "IEEEAccess Scale-Iterative Upscaling Network for Image Deblurring Code",
+          "title": "minyuanye/SIUN",
+          "description": "IEEEAccess Scale-Iterative Upscaling Network for Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,8 +386,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "TMM Raw Image Deblurring Dataset",
+          "title": "Dataset",
+          "description": "TMM Raw Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,8 +401,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "TPAMI Exposure Trajectory Recovery from Motion Blur Code",
+          "title": "yjzhang96/Motion-ETR",
+          "description": "TPAMI Exposure Trajectory Recovery from Motion Blur",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,8 +416,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Arxiv BANet: Blur-aware Attention Networks for Dynamic Scene Deblurring Code",
+          "title": "pp00704831/BANet-TIP-2022",
+          "description": "Arxiv BANet: Blur-aware Attention Networks for Dynamic Scene Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,8 +431,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR Multi-Stage Progressive Image Restoration Code",
+          "title": "swz30/MPRNet",
+          "description": "CVPR Multi-Stage Progressive Image Restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -446,8 +446,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR DeFMO: Deblurring and Shape Recovery of Fast Moving Objects Code",
+          "title": "rozumden/DeFMO",
+          "description": "CVPR DeFMO: Deblurring and Shape Recovery of Fast Moving Objects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,8 +461,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR Explore Image Deblurring via Encoded Blur Kernel Space Code",
+          "title": "VinAIResearch/blur-kernel-space-exploring",
+          "description": "CVPR Explore Image Deblurring via Encoded Blur Kernel Space",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -476,8 +476,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR Pre-trained image processing transformer Code",
+          "title": "huawei-noah/Pretrained-IPT",
+          "description": "CVPR Pre-trained image processing transformer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,8 +491,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR Multi-stage progressive image restoration Code",
+          "title": "swz30/MPRNet",
+          "description": "CVPR Multi-stage progressive image restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -506,8 +506,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPRW Hinet: Half instance normalization network for image restoration Code",
+          "title": "megvii-model/HINet",
+          "description": "CVPRW Hinet: Half instance normalization network for image restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -521,8 +521,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "ICCV Rethinking Coarse-To-Fine Approach in Single Image Deblurring Code",
+          "title": "chosj95/MIMO-UNet",
+          "description": "ICCV Rethinking Coarse-To-Fine Approach in Single Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -536,8 +536,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "ICCVW Sdwnet: A straight dilated network with wavelet transformation for image deblurring Code",
+          "title": "FlyEgle/SDWNet",
+          "description": "ICCVW Sdwnet: A straight dilated network with wavelet transformation for image deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -551,8 +551,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Arxiv Non-uniform Blur Kernel Estimation via Adaptive Basis Decomposition Code",
+          "title": "GuillermoCarbajal/NonUniformBlurKernelEstimation",
+          "description": "Arxiv Non-uniform Blur Kernel Estimation via Adaptive Basis Decomposition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -566,8 +566,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Arxiv Deep residual fourier transformation for single image deblurring Code",
+          "title": "INVOKERer/DeepRFT",
+          "description": "Arxiv Deep residual fourier transformation for single image deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -581,8 +581,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR Restormer: Efficient transformer for high-resolution image restoration Code",
+          "title": "swz30/Restormer",
+          "description": "CVPR Restormer: Efficient transformer for high-resolution image restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -596,8 +596,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR Maxim: Multi-axis mlp for image processing Code",
+          "title": "google-research/maxim",
+          "description": "CVPR Maxim: Multi-axis mlp for image processing",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -611,8 +611,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR Uformer: A general u-shaped transformer for image restoration Code",
+          "title": "ZhendongWang6/Uformer",
+          "description": "CVPR Uformer: A general u-shaped transformer for image restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -621,13 +621,13 @@
             "last_commit": "2025-03-21T08:08:03Z",
             "owner": "ZhendongWang6",
             "repo": "Uformer",
-            "stars": 943
+            "stars": 944
           }
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR All-In-One Image Restoration for Unknown Corruption Code",
+          "title": "XLearning-SCU/2022-CVPR-AirNet",
+          "description": "CVPR All-In-One Image Restoration for Unknown Corruption",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -641,8 +641,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR Deep Generalized Unfolding Networks for Image Restoration Code",
+          "title": "MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration",
+          "description": "CVPR Deep Generalized Unfolding Networks for Image Restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -656,8 +656,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Stripformer: Strip Transformer for Fast Image Deblurring Code",
+          "title": "pp00704831/Stripformer-ECCV-2022-",
+          "description": "ECCV Stripformer: Strip Transformer for Fast Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -671,8 +671,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Simple baselines for image restoration Code",
+          "title": "megvii-research/NAFNet",
+          "description": "ECCV Simple baselines for image restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -681,13 +681,13 @@
             "last_commit": "2024-07-03T13:26:24Z",
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3145
+            "stars": 3146
           }
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration Code",
+          "title": "zhaoyuzhi/D2HNet",
+          "description": "ECCV D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -701,8 +701,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Improving Image Restoration by Revisiting Global Information Aggregation Code",
+          "title": "megvii-research/TLC",
+          "description": "ECCV Improving Image Restoration by Revisiting Global Information Aggregation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -716,8 +716,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance Code",
+          "title": "zzh-tech/Animation-from-Blur",
+          "description": "ECCV Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -731,8 +731,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Learning Degradation Representations for Image Deblurring Code",
+          "title": "dasongli1/Learning_degradation",
+          "description": "ECCV Learning Degradation Representations for Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -746,8 +746,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Event-based Fusion for Motion Deblurring with Cross-modal Attention Code",
+          "title": "AHupuJR/EFNet",
+          "description": "ECCV Event-based Fusion for Motion Deblurring with Cross-modal Attention",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -761,8 +761,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ACCV Learning to Predict Decomposed Dynamic Filters for Single Image Motion Deblurring Code",
+          "title": "ZHIQIANGHU2021/DecomposedDynamicFilters",
+          "description": "ACCV Learning to Predict Decomposed Dynamic Filters for Single Image Motion Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -776,8 +776,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "AAAI Real-world deep local motion deblurring Code&Dataset",
+          "title": "Code&Dataset",
+          "description": "AAAI Real-world deep local motion deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -791,8 +791,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "AAAI Intriguing Findings of Frequency Selection for Image Deblurring Code",
+          "title": "DeepMed-Lab-ECNU/DeepRFT-AAAI2023",
+          "description": "AAAI Intriguing Findings of Frequency Selection for Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,8 +806,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Self-Supervised Non-Uniform Kernel Estimation With Flow-Based Motion Prior for Blind Image Deblurring Code",
+          "title": "Fangzhenxuan/UFPDeblur",
+          "description": "CVPR Self-Supervised Non-Uniform Kernel Estimation With Flow-Based Motion Prior for Blind Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -821,8 +821,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Efficient Frequency Domain-Based Transformers for High-Quality Image Deblurring Code",
+          "title": "kkkls/FFTformer",
+          "description": "CVPR Efficient Frequency Domain-Based Transformers for High-Quality Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -836,8 +836,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Self-Supervised Blind Motion Deblurring With Deep Expectation Maximization Code",
+          "title": "Chilie/Deblur_MCEM",
+          "description": "CVPR Self-Supervised Blind Motion Deblurring With Deep Expectation Maximization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -851,8 +851,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "NeurIPS Hierarchical Integration Diffusion Model for Realistic Image Deblurring Code",
+          "title": "zhengchen1999/HI-Diff",
+          "description": "NeurIPS Hierarchical Integration Diffusion Model for Realistic Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -866,8 +866,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Arxiv LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet Code",
+          "title": "lingyanruan/LaKDNet",
+          "description": "Arxiv LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -881,8 +881,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains Code",
+          "title": "VinAIResearch/Blur2Blur",
+          "description": "CVPR Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -896,8 +896,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Motion-adaptive Separable Collaborative Filters for Blind Motion Deblurring Code",
+          "title": "ChengxuLiu/MISCFilter",
+          "description": "CVPR Motion-adaptive Separable Collaborative Filters for Blind Motion Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -911,8 +911,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Efficient Multi-scale Network with Learnable Discrete Wavelet Transform for Blind Motion Deblurring Code",
+          "title": "thqiu0419/MLWNet",
+          "description": "CVPR Efficient Multi-scale Network with Learnable Discrete Wavelet Transform for Blind Motion Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -926,8 +926,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring Code",
+          "title": "aipixel/FourierDiff",
+          "description": "CVPR Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -941,8 +941,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring Code",
+          "title": "INVOKERer/AdaRevD",
+          "description": "CVPR AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -956,8 +956,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring Code",
+          "title": "KAIST-VICLab/FMA-Net",
+          "description": "CVPR FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -971,8 +971,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation Code",
+          "title": "plusgood-steven/ID-Blau",
+          "description": "CVPR ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -981,13 +981,13 @@
             "last_commit": "2024-07-29T10:07:25Z",
             "owner": "plusgood-steven",
             "repo": "ID-Blau",
-            "stars": 59
+            "stars": 60
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Residual Denoising Diffusion Models Code",
+          "title": "nachifur/RDDM",
+          "description": "CVPR Residual Denoising Diffusion Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1001,8 +1001,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "IJCV Blind Image Deblurring with Unknown Kernel Size and Substantial Noise Project Page",
+          "title": "Project Page",
+          "description": "IJCV Blind Image Deblurring with Unknown Kernel Size and Substantial Noise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1016,8 +1016,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "ECCV Motion Aware Event Representation-driven Image Deblurring Code",
+          "title": "Motion Aware Event Representation-driven Image Deblurring",
+          "description": "ECCV Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1031,8 +1031,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Arxiv Efficient Image Deblurring Networks based on Diffusion Models Code",
+          "title": "bnm6900030/swintormer",
+          "description": "Arxiv Efficient Image Deblurring Networks based on Diffusion Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1046,8 +1046,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "CVPR Gyro-based Neural Single Image Deblurring Code",
+          "title": "hmyang0727/GyroDeblurNet",
+          "description": "CVPR Gyro-based Neural Single Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1067,8 +1067,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2011",
-          "description": "ICCV Handling outliers in non-blind image deconvolution Code",
+          "title": "CoupeLibrary/handleoutlier",
+          "description": "ICCV Handling outliers in non-blind image deconvolution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1082,8 +1082,8 @@
         },
         {
           "node_type": "item",
-          "title": "2014",
-          "description": "CVPR Shrinkage fields for effective image restoration Code",
+          "title": "uschmidt83/shrinkage-fields",
+          "description": "CVPR Shrinkage fields for effective image restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1097,8 +1097,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "ICCP Fast non-blind deconvolution via regularized residual networks with long/short skip-connections Code, Project Page",
+          "title": "HyeongseokSon1/CNN_deconvolution",
+          "description": ", Project Page ICCP Fast non-blind deconvolution via regularized residual networks with long/short skip-connections",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1112,8 +1112,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR Learning Deep CNN Denoiser Prior for Image Restoration Code",
+          "title": "cszn/IRCNN",
+          "description": "CVPR Learning Deep CNN Denoiser Prior for Image Restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1127,8 +1127,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution Code",
+          "title": "zhjwustc/cvpr17_iter_deblur_testing_matconvnet",
+          "description": "CVPR Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1142,8 +1142,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "ICCV Learning to push the limits of efficient fft-based image deconvolution Code",
+          "title": "uschmidt83/fourier-deconvolution-network",
+          "description": "ICCV Learning to push the limits of efficient fft-based image deconvolution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1157,8 +1157,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "NIPS Deep Mean-Shift Priors for Image Restoration Code",
+          "title": "siavashBigdeli/DMSP",
+          "description": "NIPS Deep Mean-Shift Priors for Image Restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1172,8 +1172,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Non-blind Deblurring: Handling Kernel Uncertainty with CNNs Project page & Results-on-benchmark-datasets",
+          "title": "Project page & Results-on-benchmark-datasets",
+          "description": "CVPR Non-blind Deblurring: Handling Kernel Uncertainty with CNNs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1187,8 +1187,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Deep image prior Code",
+          "title": "DmitryUlyanov/deep-image-prior",
+          "description": "CVPR Deep image prior",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1202,8 +1202,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "NIPS Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation Code",
+          "title": "rwenqi/NBD-GLRA",
+          "description": "NIPS Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1217,8 +1217,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICLR Deep decoder: Concise image representations from untrained non-convolutional networks Code",
+          "title": "reinhardh/supplement_deep_decoder",
+          "description": "ICLR Deep decoder: Concise image representations from untrained non-convolutional networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1232,8 +1232,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels Code",
+          "title": "cszn/DPSR",
+          "description": "CVPR Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1307,8 +1307,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "EUSIPCO Bp-dip: A backprojection based deep image prior Code",
+          "title": "jennyzu/BP-DIP-deblurring",
+          "description": "EUSIPCO Bp-dip: A backprojection based deep image prior",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1322,8 +1322,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "TNLS Learning deep gradient descent optimization for image deconvolution Code",
+          "title": "donggong1/learn-optimizer-rgdn",
+          "description": "TNLS Learning deep gradient descent optimization for image deconvolution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1337,8 +1337,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "TCI Neumann networks for linear inverse problems in imaging Code",
+          "title": "dgilton/neumann_networks_code",
+          "description": "TCI Neumann networks for linear inverse problems in imaging",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1352,8 +1352,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR Deep Constrained Least Squares for Blind Image Super-Resolution Project Page",
+          "title": "Project Page",
+          "description": "CVPR Deep Constrained Least Squares for Blind Image Super-Resolution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1367,8 +1367,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "SPIC Black-box image deblurring and defiltering CodeMatlab, CodePy",
+          "title": "CodeMatlab",
+          "description": ", CodePy SPIC Black-box image deblurring and defiltering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1382,8 +1382,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "TCI Photon Limited Non-Blind Deblurring Using Algorithm Unrolling Code",
+          "title": "sanghviyashiitb/poisson-deblurring",
+          "description": "TCI Photon Limited Non-Blind Deblurring Using Algorithm Unrolling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1397,8 +1397,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "WACV Wiener Guided DIP for Unsupervised Blind Image Deconvolution Code",
+          "title": "gbredell/W_DIP",
+          "description": "WACV Wiener Guided DIP for Unsupervised Blind Image Deconvolution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1412,8 +1412,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior Code",
+          "title": "xl-tang3/UAUDeblur",
+          "description": "CVPR Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1427,8 +1427,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "SIVP Reverse image filtering with clean and noisy filters Code",
+          "title": "fayolle/clean_noisy_defilter",
+          "description": "SIVP Reverse image filtering with clean and noisy filters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1442,8 +1442,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "TIP INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions Code",
+          "title": "zhihongz/INFWIDE",
+          "description": "TIP INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1457,8 +1457,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "TPAMI Blind Image Deconvolution Using Variational Deep Image Prior Code",
+          "title": "Dong-Huo/VDIP-Deconvolution",
+          "description": "TPAMI Blind Image Deconvolution Using Variational Deep Image Prior",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1472,8 +1472,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "ACM MM LoFormer: Local Frequency Transformer for Image Deblurring Code",
+          "title": "INVOKERer/LoFormer",
+          "description": "ACM MM LoFormer: Local Frequency Transformer for Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1493,8 +1493,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR Deep Video Deblurring for Hand-Held Cameras Code Project page",
+          "title": "shuochsu/DeepVideoDeblurring",
+          "description": "CVPR Deep Video Deblurring for Hand-Held Cameras Project page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1508,8 +1508,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR Light Field Blind Motion Deblurring code",
+          "title": "pratulsrinivasan/Light_Field_Blind_Motion_Deblurring",
+          "description": "CVPR Light Field Blind Motion Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1523,7 +1523,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "themathgeek13/STdeblur",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1553,8 +1553,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR DAVANet: Stereo Deblurring With View Aggregation Code",
+          "title": "sczhou/DAVANet",
+          "description": "CVPR DAVANet: Stereo Deblurring With View Aggregation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1568,8 +1568,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICCV Spatio-Temporal Filter Adaptive Network for Video Deblurring Project page, Code",
+          "title": "Project page",
+          "description": ", Code ICCV Spatio-Temporal Filter Adaptive Network for Video Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1583,8 +1583,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICCV Face Video Deblurring using 3D Facial Priors Code",
+          "title": "rwenqi/3Dfacedeblurring",
+          "description": "ICCV Face Video Deblurring using 3D Facial Priors",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1598,8 +1598,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICCV_W Deep Video Deblurring: The Devil is in the Details Code",
+          "title": "visinf/deblur-devil",
+          "description": "ICCV_W Deep Video Deblurring: The Devil is in the Details",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1613,8 +1613,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPR Cascaded Deep Video Deblurring Using Temporal Sharpness Prior Code Project Page",
+          "title": "csbhr/CDVD-TSP",
+          "description": "CVPR Cascaded Deep Video Deblurring Using Temporal Sharpness Prior Project Page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1628,8 +1628,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPR Blurry Video Frame Interpolation Code",
+          "title": "laomao0/BIN",
+          "description": "CVPR Blurry Video Frame Interpolation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1643,8 +1643,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "ECCV Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring Code",
+          "title": "zzh-tech/ESTRNN",
+          "description": "ECCV Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1658,8 +1658,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "TOG Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes Code",
+          "title": "codeslake/PVDNet",
+          "description": "TOG Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1673,8 +1673,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR Deblur-NeRF: Neural Radiance Fields From Blurry Images Code",
+          "title": "limacv/Deblur-NeRF",
+          "description": "CVPR Deblur-NeRF: Neural Radiance Fields From Blurry Images",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1683,13 +1683,13 @@
             "last_commit": "2024-06-28T03:45:30Z",
             "owner": "limacv",
             "repo": "Deblur-NeRF",
-            "stars": 285
+            "stars": 286
           }
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Improving Image Restoration by Revisiting Global Information Aggregation Code",
+          "title": "megvii-research/TLC",
+          "description": "ECCV Improving Image Restoration by Revisiting Global Information Aggregation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1703,8 +1703,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance Code",
+          "title": "zzh-tech/Animation-from-Blur",
+          "description": "ECCV Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1718,8 +1718,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Efficient Video Deblurring Guided by Motion Magnitude Code",
+          "title": "sollynoay/MMP-RNN",
+          "description": "ECCV Efficient Video Deblurring Guided by Motion Magnitude",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1733,8 +1733,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Spatio-Temporal Deformable Attention Network for Video Deblurring Code",
+          "title": "huicongzhang/STDAN",
+          "description": "ECCV Spatio-Temporal Deformable Attention Network for Video Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1748,8 +1748,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV ERDN: Equivalent Receptive Field Deformable Network for Video Deblurring Code",
+          "title": "TencentCloud/ERDN",
+          "description": "ECCV ERDN: Equivalent Receptive Field Deformable Network for Video Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1763,8 +1763,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting Code",
+          "title": "JihyongOh/DeMFI",
+          "description": "ECCV DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1778,8 +1778,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CGF Real-Time Video Deblurring via Lightweight Motion Compensation Code",
+          "title": "codeslake/RealTime_VDBLR",
+          "description": "CGF Real-Time Video Deblurring via Lightweight Motion Compensation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1793,8 +1793,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "IJCV Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network Code",
+          "title": "zzh-tech/ESTRNN",
+          "description": "IJCV Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1823,7 +1823,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "benhenryL/SharpNeRF",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1838,8 +1838,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Blur Interpolation Transformer for Real-World Motion from Blur Code",
+          "title": "zzh-tech/BiT",
+          "description": "CVPR Blur Interpolation Transformer for Real-World Motion from Blur",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1853,8 +1853,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors Code",
+          "title": "dogyoonlee/DP-NeRF",
+          "description": "CVPR DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1868,8 +1868,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields Code&Dataset",
+          "title": "Code&Dataset",
+          "description": "CVPR BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1883,8 +1883,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Joint Video Multi-Frame Interpolation and Deblurring Under Unknown Exposure Time Code",
+          "title": "shangwei5/VIDUE",
+          "description": "CVPR Joint Video Multi-Frame Interpolation and Deblurring Under Unknown Exposure Time",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1898,8 +1898,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Deep Discriminative Spatial and Temporal Network for Efficient Video Deblurring Code",
+          "title": "xuboming8/DSTNet",
+          "description": "CVPR Deep Discriminative Spatial and Temporal Network for Efficient Video Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1913,8 +1913,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "ICCV E2NeRF: Event Enhanced Neural Radiance Fields from Blurry Images Code",
+          "title": "iCVTEAM/E2NeRF",
+          "description": "ICCV E2NeRF: Event Enhanced Neural Radiance Fields from Blurry Images",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1928,8 +1928,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring Code",
+          "title": "huicongzhang/BSSTNet",
+          "description": "CVPR Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1943,8 +1943,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Mitigating Motion Blur in Neural Radiance Fields with Events and Frames Code",
+          "title": "uzh-rpg/EvDeblurNeRF",
+          "description": "CVPR Mitigating Motion Blur in Neural Radiance Fields with Events and Frames",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1958,8 +1958,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "ECCV Rethinking video deblurring with waveletaware dynamic transformer and diffusion model Code",
+          "title": "Chen-Rao/VD-Diff",
+          "description": "ECCV Rethinking video deblurring with waveletaware dynamic transformer and diffusion model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1973,8 +1973,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "NeurIPS Learning Truncated Causal History Model for Video Restoration Code",
+          "title": "Ascend-Research/Turtle",
+          "description": "NeurIPS Learning Truncated Causal History Model for Video Restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1994,8 +1994,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2014",
-          "description": "CVPR Joint Depth Estimation and Camera Shake Removal from Single Blurry Image Code",
+          "title": "chaehomie/Joint_Depth_Esimation_and_Deblur",
+          "description": "CVPR Joint Depth Estimation and Camera Shake Removal from Single Blurry Image",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2009,8 +2009,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR DAVANet: Stereo Deblurring With View Aggregation Code",
+          "title": "sczhou/DAVANet",
+          "description": "CVPR DAVANet: Stereo Deblurring With View Aggregation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2024,8 +2024,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Deep Lidar-guided Image Deblurring Code",
+          "title": "diegovalsesia/lidardeblurring",
+          "description": "Deep Lidar-guided Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2045,8 +2045,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2000",
-          "description": "Multiframe Restoration Methods for Image Synthesis and Recovery, Joseph J. Green, Univ. of Arizona, PhD thesis Code",
+          "title": "nasa-jpl/pmapper",
+          "description": "Multiframe Restoration Methods for Image Synthesis and Recovery, Joseph J. Green, Univ. of Arizona, PhD thesis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2060,8 +2060,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Learning to extract a video sequence from a single motion-blurred image Code",
+          "title": "MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image",
+          "description": "CVPR Learning to extract a video sequence from a single motion-blurred image",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2075,8 +2075,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera Code",
+          "title": "panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera",
+          "description": "CVPR Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2090,8 +2090,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Learning to Extract Flawless Slow Motion From Blurry Videos Code",
+          "title": "MeiguangJin/slow-motion",
+          "description": "CVPR Learning to Extract Flawless Slow Motion From Blurry Videos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2105,8 +2105,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Learning to Synthesize Motion Blur Code, Project page",
+          "title": "google-research/google-research",
+          "description": ", Project page CVPR Learning to Synthesize Motion Blur",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2115,13 +2115,13 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38614
           }
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICCV FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos Code",
+          "title": "KeqiangSun/FAB",
+          "description": "ICCV FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2135,8 +2135,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "NIPS Watch out! Motion is Blurring Blurring the Vision of Your Deep Neural Networks Code",
+          "title": "tsingqguo/ABBA",
+          "description": "NIPS Watch out! Motion is Blurring Blurring the Vision of Your Deep Neural Networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2150,8 +2150,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes Code",
+          "title": "zzh-tech/RSCD",
+          "description": "CVPR Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2165,8 +2165,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "ICCV Motion Deblurring With Real Events Code",
+          "title": "xufangchn/Motion-Deblurring-with-Real-Events",
+          "description": "ICCV Motion Deblurring With Real Events",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2180,8 +2180,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "ICCV Bringing Events Into Video Deblurring With Non-Consecutively Blurry Frames Code",
+          "title": "shangwei5/D2Net",
+          "description": "ICCV Bringing Events Into Video Deblurring With Non-Consecutively Blurry Frames",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2195,8 +2195,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance Code",
+          "title": "zzh-tech/Animation-from-Blur",
+          "description": "ECCV Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2210,8 +2210,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Realistic Blur Synthesis for Learning Image Deblurring Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "ECCV Realistic Blur Synthesis for Learning Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2225,8 +2225,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Blur Interpolation Transformer for Real-World Motion from Blur Code",
+          "title": "zzh-tech/BiT",
+          "description": "CVPR Blur Interpolation Transformer for Real-World Motion from Blur",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2240,8 +2240,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Improving Robustness of Semantic Segmentation to Motion-Blur Using Class-Centric Augmentation Code",
+          "title": "aka-discover/CCMBA_CVPR23",
+          "description": "CVPR Improving Robustness of Semantic Segmentation to Motion-Blur Using Class-Centric Augmentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2255,8 +2255,8 @@
         },
         {
           "node_type": "item",
-          "title": "[2023]",
-          "description": "CVPR Recovering 3D Hand Mesh Sequence From a Single Blurry Image: A New Dataset and Temporal Unfolding Code",
+          "title": "JaehaKim97/BlurHand_RELEASE",
+          "description": "CVPR Recovering 3D Hand Mesh Sequence From a Single Blurry Image: A New Dataset and Temporal Unfolding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2270,8 +2270,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Blur Interpolation Transformer for Real-World Motion from Blur Code",
+          "title": "zzh-tech/BiT",
+          "description": "CVPR Blur Interpolation Transformer for Real-World Motion from Blur",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2285,8 +2285,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Event-Based Frame Interpolation with Ad-hoc Deblurring Code",
+          "title": "AHupuJR/REFID",
+          "description": "CVPR Event-Based Frame Interpolation with Ad-hoc Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2300,8 +2300,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR HyperCUT: Video Sequence From a Single Blurry Image Using Unsupervised Ordering Code",
+          "title": "VinAIResearch/HyperCUT",
+          "description": "CVPR HyperCUT: Video Sequence From a Single Blurry Image Using Unsupervised Ordering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2315,8 +2315,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Event-Based Blurry Frame Interpolation Under Blind Exposure Code",
+          "title": "WarranWeng/EBFI-BE",
+          "description": "CVPR Event-Based Blurry Frame Interpolation Under Blind Exposure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2330,8 +2330,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "ICCV Generalizing Event-Based Motion Deblurring in Real-World Scenarios Code",
+          "title": "XiangZ-0/GEM",
+          "description": "ICCV Generalizing Event-Based Motion Deblurring in Real-World Scenarios",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2345,8 +2345,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "WACV Single-Image Deblurring, Trajectory and Shape Recovery of Fast Moving Objects with Denoising Diffusion Probabilistic Models Code",
+          "title": "radimspetlik/SI-DDPM-FMO",
+          "description": "WACV Single-Image Deblurring, Trajectory and Shape Recovery of Fast Moving Objects with Denoising Diffusion Probabilistic Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2360,8 +2360,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Spike-guided Motion Deblurring with Unknown Modal Spatiotemporal Alignment Code",
+          "title": "Leozhangjiyuan/UaSDN",
+          "description": "CVPR Spike-guided Motion Deblurring with Unknown Modal Spatiotemporal Alignment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2375,8 +2375,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Motion Blur Decomposition with Cross-shutter Guidance Code",
+          "title": "jixiang2016/dualBR",
+          "description": "CVPR Motion Blur Decomposition with Cross-shutter Guidance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2396,8 +2396,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "Spatially Variant Defocus Blur Map Estimation and Deblurring from a Single Image Code",
+          "title": "ZHANGXinxinPKU/defocus-deblurring",
+          "description": "Spatially Variant Defocus Blur Map Estimation and Deblurring from a Single Image",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2411,8 +2411,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes Code",
+          "title": "isalirezag/HiFST",
+          "description": "CVPR Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2426,8 +2426,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR A unified approach of multi-scale deep and hand-crafted features for defocus estimation Code",
+          "title": "zzangjinsun/DHDE_CVPR17",
+          "description": "CVPR A unified approach of multi-scale deep and hand-crafted features for defocus estimation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2441,8 +2441,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "ICCV Learning to Synthesize a 4D RGBD Light Field from a Single Image Dataset and Project Page",
+          "title": "Dataset and Project Page",
+          "description": "ICCV Learning to Synthesize a 4D RGBD Light Field from a Single Image",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2456,8 +2456,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ECCV_W Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks? Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "ECCV_W Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2471,8 +2471,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "PG Defocus and Motion Blur Detection with Deep Contextual Features Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "PG Defocus and Motion Blur Detection with Deep Contextual Features",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2486,8 +2486,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "TIP Edge-based defocus blur estimation with adaptive scale selection Code",
+          "title": "alikaraali/edge-based-dfe-tip2018",
+          "description": "TIP Edge-based defocus blur estimation with adaptive scale selection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2501,8 +2501,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Deep Defocus Map Estimation using Domain Adaptation Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR Deep Defocus Map Estimation using Domain Adaptation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2516,8 +2516,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "ECCV Defocus Deblurring Using Dual-Pixel Data Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "ECCV Defocus Deblurring Using Dual-Pixel Data",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2531,8 +2531,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "ECCV Defocus Blur Detection via Depth Distillation Code",
+          "title": "vinthony/depth-distillation",
+          "description": "ECCV Defocus Blur Detection via Depth Distillation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2546,8 +2546,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "TCI AIFNet: All-in-focus Image Restoration Network using a Light Field-based Dataset Code,Dataset",
+          "title": "binorchen/AIFNET",
+          "description": ",Dataset TCI AIFNet: All-in-focus Image Restoration Network using a Light Field-based Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2561,8 +2561,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR Iterative Filter Adaptive Network for Single Image Defocus Deblurring Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR Iterative Filter Adaptive Network for Single Image Defocus Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2576,8 +2576,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR Self-Generated Defocus Blur Detection via Dual Adversarial Discriminators Code",
+          "title": "shangcai1/SG",
+          "description": "CVPR Self-Generated Defocus Blur Detection via Dual Adversarial Discriminators",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2591,8 +2591,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration Code",
+          "title": "panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration",
+          "description": "CVPR Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2606,8 +2606,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPRW Attention! Stay Focus! Code",
+          "title": "tuvovan/ATTSF",
+          "description": "CVPRW Attention! Stay Focus!",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2621,8 +2621,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "ICCV Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions Code",
+          "title": "HyeongseokSon1/KPAC",
+          "description": "ICCV Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2636,8 +2636,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "ICCV Learning To Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data Code",
+          "title": "Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel",
+          "description": "ICCV Learning To Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2651,8 +2651,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "WACV Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning Code",
+          "title": "Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat",
+          "description": "WACV Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2666,8 +2666,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR Learning to Deblur Using Light Field Generated and Real Defocus Images Code",
+          "title": "lingyanruan/DRBNet",
+          "description": "CVPR Learning to Deblur Using Light Field Generated and Real Defocus Images",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2681,8 +2681,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV United Defocus Blur Detection and Deblurring via Adversarial Promoting Learning Code",
+          "title": "wdzhao123/APL",
+          "description": "ECCV United Defocus Blur Detection and Deblurring via Adversarial Promoting Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2696,8 +2696,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "AAAI Learning Single Image Defocus Deblurring with Misaligned Training Pairs Code",
+          "title": "liyucs/JDRL",
+          "description": "AAAI Learning Single Image Defocus Deblurring with Misaligned Training Pairs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2711,8 +2711,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Better \"CMOS\" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution Code",
+          "title": "ByChelsea/CMOS",
+          "description": "CVPR Better \"CMOS\" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2726,8 +2726,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Neumann Network With Recursive Kernels for Single Image Defocus Deblurring Code",
+          "title": "csZcWu/NRKNet",
+          "description": "CVPR Neumann Network With Recursive Kernels for Single Image Defocus Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2741,8 +2741,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "IJCV End-to-end Alternating Optimization for Real-World Blind Super Resolution Code",
+          "title": "greatlog/RealDAN",
+          "description": "IJCV End-to-end Alternating Optimization for Real-World Blind Super Resolution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2756,8 +2756,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Arxiv LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet Code",
+          "title": "lingyanruan/LaKDNet",
+          "description": "Arxiv LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2771,8 +2771,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning Code",
+          "title": "PieceZhang/MPT-CataBlur",
+          "description": "CVPR A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2786,8 +2786,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network Code",
+          "title": "noxsine/LDP",
+          "description": "CVPR LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2807,8 +2807,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR (GOPRO) Deep multi-scale convolutional neural network for dynamic scene deblurring Dataset",
+          "title": "Dataset",
+          "description": "CVPR (GOPRO) Deep multi-scale convolutional neural network for dynamic scene deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2822,8 +2822,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICCV (HIDE) Human-Aware Motion Deblurring Dataset",
+          "title": "Dataset",
+          "description": "ICCV (HIDE) Human-Aware Motion Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2837,8 +2837,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPR Deblurring by Realistic Blurring Dataset",
+          "title": "Dataset",
+          "description": "CVPR Deblurring by Realistic Blurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2852,8 +2852,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "ECCV (BSD) Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring Dataset",
+          "title": "Dataset",
+          "description": "ECCV (BSD) Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2867,8 +2867,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR (BS-RSCD) Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes Dataset",
+          "title": "Dataset",
+          "description": "CVPR (BS-RSCD) Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2882,8 +2882,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Arxiv MC-Blur: A Comprehensive Benchmark for Image Deblurring Dataset",
+          "title": "Dataset",
+          "description": "Arxiv MC-Blur: A Comprehensive Benchmark for Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2897,8 +2897,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Realistic Blur Synthesis for Learning Image Deblurring Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "ECCV Realistic Blur Synthesis for Learning Image Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2912,8 +2912,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "IJCV (BSD) Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network Dataset",
+          "title": "Dataset",
+          "description": "IJCV (BSD) Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2927,8 +2927,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR (RBI) Blur Interpolation Transformer for Real-World Motion from Blur Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR (RBI) Blur Interpolation Transformer for Real-World Motion from Blur",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2942,8 +2942,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "AAAI Real-world deep local motion deblurring Code&Dataset",
+          "title": "Code&Dataset",
+          "description": "AAAI Real-world deep local motion deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2960,7 +2960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:43.301Z",
+    "last_updated": "2026-08-25T05:53:15.144Z",
     "original_repository": "subeeshvasu/Awesome-Deblurring",
     "original_repository_id": 197458822,
     "original_repository_sha": "309c622a7be58f22068df62f53bc03183a8d0fd5",
