@@ -681,7 +681,7 @@
             "last_commit": "2024-07-03T13:26:24Z",
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3146
+            "stars": 3148
           }
         },
         {
@@ -1683,7 +1683,7 @@
             "last_commit": "2024-06-28T03:45:30Z",
             "owner": "limacv",
             "repo": "Deblur-NeRF",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -1983,7 +1983,7 @@
             "last_commit": "2026-02-18T03:51:31Z",
             "owner": "Ascend-Research",
             "repo": "Turtle",
-            "stars": 130
+            "stars": 129
           }
         }
       ],
@@ -2112,10 +2112,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38616
+            "stars": 38623
           }
         },
         {
@@ -2960,7 +2960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:25:38.036Z",
+    "last_updated": "2026-08-26T10:29:39.942Z",
     "original_repository": "subeeshvasu/Awesome-Deblurring",
     "original_repository_id": 197458822,
     "original_repository_sha": "309c622a7be58f22068df62f53bc03183a8d0fd5",
