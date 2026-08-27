@@ -591,7 +591,7 @@
             "last_commit": "2025-10-23T13:41:29Z",
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2625
+            "stars": 2626
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2024-07-03T13:26:24Z",
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3148
+            "stars": 3149
           }
         },
         {
@@ -2055,7 +2055,7 @@
             "last_commit": "2023-08-14T15:43:31Z",
             "owner": "nasa-jpl",
             "repo": "pmapper",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -2112,10 +2112,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38623
+            "stars": 38630
           }
         },
         {
@@ -2960,9 +2960,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:29:39.942Z",
-    "original_repository": "subeeshvasu/Awesome-Deblurring",
-    "original_repository_id": 197458822,
+    "last_updated": "2026-08-27T11:22:26.245Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 197458822,
+      "language": null,
+      "last_commit": "2025-06-29T07:34:16Z",
+      "owner": "subeeshvasu",
+      "repo": "Awesome-Deblurring",
+      "stars": 2912
+    },
     "original_repository_sha": "309c622a7be58f22068df62f53bc03183a8d0fd5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deblurring",
     "enhanced_repository_description": null,
