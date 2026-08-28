@@ -16,7 +16,8 @@
             "owner": "saeed-anwar",
             "repo": "Class_Specific_Deblurring",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "MeiguangJin",
             "repo": "NBD",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "cuiyixin555",
             "repo": "LMG",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "panpanfei",
             "repo": "Phase-only-Image-Based-Kernel-Estimation-for-Blind-Motion-Deblurring",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "BYchao100",
             "repo": "Graph-Based-Blind-Image-Deblurring",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "FWen",
             "repo": "deblur-pmp",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         }
       ],
       "title": "Single-Image-Blind-Motion-Deblurring (non-DL)"
@@ -112,7 +118,8 @@
             "owner": "Sibozhu",
             "repo": "MotionBlur-detection-by-CNN",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "ayanc",
             "repo": "ndeblur",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "SeungjunNah",
             "repo": "DeepDeblur_release",
             "stars": 735
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "joanshen0508",
             "repo": "Deep-Semantic-Face-Deblurring",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "zhjwustc",
             "repo": "cvpr18_rnn_deblur_matcaffe",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "jiangsutx",
             "repo": "SRN-Deblur",
             "stars": 762
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "KupynOrest",
             "repo": "DeblurGAN",
             "stars": 2639
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "jacquelinelala",
             "repo": "GFN",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "jannemus",
             "repo": "DeepGyro",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "HongguangZhang",
             "repo": "DMPHN-cvpr19-master",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "ustclby",
             "repo": "Unsupervised-Domain-Specific-Deblurring",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "anshulbshah",
             "repo": "Blurred-Image-to-Video",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "VITA-Group",
             "repo": "DeblurGANv2",
             "stars": 1192
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "VITA-Group",
             "repo": "DeblurGANv2",
             "stars": 1192
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "csdwren",
             "repo": "SelfDeblur",
             "stars": 374
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "HDCVLab",
             "repo": "Deblurring-by-Realistic-Blurring",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "rajeevyasarla",
             "repo": "UMSN-Face-Deblurring",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "csjcai",
             "repo": "DBCPeNet",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "minyuanye",
             "repo": "SIUN",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "bob831009",
             "repo": "raw_image_deblurring",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "yjzhang96",
             "repo": "Motion-ETR",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "pp00704831",
             "repo": "BANet-TIP-2022",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "swz30",
             "repo": "MPRNet",
             "stars": 1393
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "rozumden",
             "repo": "DeFMO",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "VinAIResearch",
             "repo": "blur-kernel-space-exploring",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "huawei-noah",
             "repo": "Pretrained-IPT",
             "stars": 470
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "swz30",
             "repo": "MPRNet",
             "stars": 1393
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "megvii-model",
             "repo": "HINet",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "chosj95",
             "repo": "MIMO-UNet",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "FlyEgle",
             "repo": "SDWNet",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "GuillermoCarbajal",
             "repo": "NonUniformBlurKernelEstimation",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "INVOKERer",
             "repo": "DeepRFT",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -591,8 +629,9 @@
             "last_commit": "2025-10-23T13:41:29Z",
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2627
-          }
+            "stars": 2628
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "google-research",
             "repo": "maxim",
             "stars": 1085
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "ZhendongWang6",
             "repo": "Uformer",
             "stars": 944
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -636,8 +677,9 @@
             "last_commit": "2024-08-21T07:44:17Z",
             "owner": "XLearning-SCU",
             "repo": "2022-CVPR-AirNet",
-            "stars": 231
-          }
+            "stars": 232
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "MC-E",
             "repo": "Deep-Generalized-Unfolding-Networks-for-Image-Restoration",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "pp00704831",
             "repo": "Stripformer-ECCV-2022-",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "megvii-research",
             "repo": "NAFNet",
             "stars": 3149
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -697,7 +742,8 @@
             "owner": "zhaoyuzhi",
             "repo": "D2HNet",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "megvii-research",
             "repo": "TLC",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "zzh-tech",
             "repo": "Animation-from-Blur",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "dasongli1",
             "repo": "Learning_degradation",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -757,7 +806,8 @@
             "owner": "AHupuJR",
             "repo": "EFNet",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -772,7 +822,8 @@
             "owner": "ZHIQIANGHU2021",
             "repo": "DecomposedDynamicFilters",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -787,7 +838,8 @@
             "owner": "LeiaLi",
             "repo": "ReLoBlur",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -802,7 +854,8 @@
             "owner": "DeepMed-Lab-ECNU",
             "repo": "DeepRFT-AAAI2023",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -817,7 +870,8 @@
             "owner": "Fangzhenxuan",
             "repo": "UFPDeblur",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -832,7 +886,8 @@
             "owner": "kkkls",
             "repo": "FFTformer",
             "stars": 394
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -847,7 +902,8 @@
             "owner": "Chilie",
             "repo": "Deblur_MCEM",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -862,7 +918,8 @@
             "owner": "zhengchen1999",
             "repo": "HI-Diff",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -877,7 +934,8 @@
             "owner": "lingyanruan",
             "repo": "LaKDNet",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -892,7 +950,8 @@
             "owner": "VinAIResearch",
             "repo": "Blur2Blur",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -907,7 +966,8 @@
             "owner": "ChengxuLiu",
             "repo": "MISCFilter",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -922,7 +982,8 @@
             "owner": "thqiu0419",
             "repo": "MLWNet",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -937,7 +998,8 @@
             "owner": "aipixel",
             "repo": "FourierDiff",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1014,8 @@
             "owner": "INVOKERer",
             "repo": "AdaRevD",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1030,8 @@
             "owner": "KAIST-VICLab",
             "repo": "FMA-Net",
             "stars": 705
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1046,8 @@
             "owner": "plusgood-steven",
             "repo": "ID-Blau",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1062,8 @@
             "owner": "nachifur",
             "repo": "RDDM",
             "stars": 580
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1012,7 +1078,8 @@
             "owner": "sun-umn",
             "repo": "Blind-Image-Deblurring",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1027,7 +1094,8 @@
             "owner": "ZhijingS",
             "repo": "DA_event_deblur",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1042,7 +1110,8 @@
             "owner": "bnm6900030",
             "repo": "swintormer",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1057,7 +1126,8 @@
             "owner": "hmyang0727",
             "repo": "GyroDeblurNet",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         }
       ],
       "title": "Single-Image-Blind-Motion-Deblurring (DL)"
@@ -1078,7 +1148,8 @@
             "owner": "CoupeLibrary",
             "repo": "handleoutlier",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1164,8 @@
             "owner": "uschmidt83",
             "repo": "shrinkage-fields",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1108,7 +1180,8 @@
             "owner": "HyeongseokSon1",
             "repo": "CNN_deconvolution",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1196,8 @@
             "owner": "cszn",
             "repo": "IRCNN",
             "stars": 609
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1212,8 @@
             "owner": "zhjwustc",
             "repo": "cvpr17_iter_deblur_testing_matconvnet",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1153,7 +1228,8 @@
             "owner": "uschmidt83",
             "repo": "fourier-deconvolution-network",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1168,7 +1244,8 @@
             "owner": "siavashBigdeli",
             "repo": "DMSP",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1183,7 +1260,8 @@
             "owner": "subeeshvasu",
             "repo": "2018_subeesh_nbd_cvpr",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1197,8 +1275,9 @@
             "last_commit": "2023-04-27T03:47:44Z",
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8088
-          }
+            "stars": 8089
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1292,8 @@
             "owner": "rwenqi",
             "repo": "NBD-GLRA",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1308,8 @@
             "owner": "reinhardh",
             "repo": "supplement_deep_decoder",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1324,8 @@
             "owner": "cszn",
             "repo": "DPSR",
             "stars": 846
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1340,8 @@
             "owner": "ysnan",
             "repo": "VEM-NBD",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1273,7 +1356,8 @@
             "owner": "ysnan",
             "repo": "VEM-NBD",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1372,8 @@
             "owner": "ysnan",
             "repo": "NBD_KerUnc",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1388,8 @@
             "owner": "ysnan",
             "repo": "NBD_KerUnc",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1404,8 @@
             "owner": "jennyzu",
             "repo": "BP-DIP-deblurring",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1420,8 @@
             "owner": "donggong1",
             "repo": "learn-optimizer-rgdn",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1436,8 @@
             "owner": "dgilton",
             "repo": "neumann_networks_code",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1452,8 @@
             "owner": "Algolzw",
             "repo": "DCLS",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1468,8 @@
             "owner": "fayolle",
             "repo": "bbDeblur",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1484,8 @@
             "owner": "sanghviyashiitb",
             "repo": "poisson-deblurring",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1500,8 @@
             "owner": "gbredell",
             "repo": "W_DIP",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1516,8 @@
             "owner": "xl-tang3",
             "repo": "UAUDeblur",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1532,8 @@
             "owner": "fayolle",
             "repo": "clean_noisy_defilter",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1453,7 +1548,8 @@
             "owner": "zhihongz",
             "repo": "INFWIDE",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1468,7 +1564,8 @@
             "owner": "Dong-Huo",
             "repo": "VDIP-Deconvolution",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1483,7 +1580,8 @@
             "owner": "INVOKERer",
             "repo": "LoFormer",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         }
       ],
       "title": "Non-Blind-Deblurring"
@@ -1504,7 +1602,8 @@
             "owner": "shuochsu",
             "repo": "DeepVideoDeblurring",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1618,8 @@
             "owner": "pratulsrinivasan",
             "repo": "Light_Field_Blind_Motion_Deblurring",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1634,8 @@
             "owner": "themathgeek13",
             "repo": "STdeblur",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1549,7 +1650,8 @@
             "owner": "JLtwoP",
             "repo": "Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1564,7 +1666,8 @@
             "owner": "sczhou",
             "repo": "DAVANet",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1579,7 +1682,8 @@
             "owner": "sczhou",
             "repo": "STFAN",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1594,7 +1698,8 @@
             "owner": "rwenqi",
             "repo": "3Dfacedeblurring",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1609,7 +1714,8 @@
             "owner": "visinf",
             "repo": "deblur-devil",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1624,7 +1730,8 @@
             "owner": "csbhr",
             "repo": "CDVD-TSP",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1639,7 +1746,8 @@
             "owner": "laomao0",
             "repo": "BIN",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1654,7 +1762,8 @@
             "owner": "zzh-tech",
             "repo": "ESTRNN",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1669,7 +1778,8 @@
             "owner": "codeslake",
             "repo": "PVDNet",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1684,7 +1794,8 @@
             "owner": "limacv",
             "repo": "Deblur-NeRF",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1699,7 +1810,8 @@
             "owner": "megvii-research",
             "repo": "TLC",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1714,7 +1826,8 @@
             "owner": "zzh-tech",
             "repo": "Animation-from-Blur",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1729,7 +1842,8 @@
             "owner": "sollynoay",
             "repo": "MMP-RNN",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1744,7 +1858,8 @@
             "owner": "huicongzhang",
             "repo": "STDAN",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1759,7 +1874,8 @@
             "owner": "TencentCloud",
             "repo": "ERDN",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1774,7 +1890,8 @@
             "owner": "JihyongOh",
             "repo": "DeMFI",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1789,7 +1906,8 @@
             "owner": "codeslake",
             "repo": "RealTime_VDBLR",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1804,7 +1922,8 @@
             "owner": "zzh-tech",
             "repo": "ESTRNN",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1819,7 +1938,8 @@
             "owner": "radimspetlik",
             "repo": "SI-DDPM-FMO",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1834,7 +1954,8 @@
             "owner": "benhenryL",
             "repo": "SharpNeRF",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1849,7 +1970,8 @@
             "owner": "zzh-tech",
             "repo": "BiT",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1864,7 +1986,8 @@
             "owner": "dogyoonlee",
             "repo": "DP-NeRF",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1879,7 +2002,8 @@
             "owner": "WU-CVGL",
             "repo": "BAD-NeRF",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1894,7 +2018,8 @@
             "owner": "shangwei5",
             "repo": "VIDUE",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1909,7 +2034,8 @@
             "owner": "xuboming8",
             "repo": "DSTNet",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1924,7 +2050,8 @@
             "owner": "iCVTEAM",
             "repo": "E2NeRF",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1939,7 +2066,8 @@
             "owner": "huicongzhang",
             "repo": "BSSTNet",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1954,7 +2082,8 @@
             "owner": "uzh-rpg",
             "repo": "EvDeblurNeRF",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1969,7 +2098,8 @@
             "owner": "Chen-Rao",
             "repo": "VD-Diff",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -1984,7 +2114,8 @@
             "owner": "Ascend-Research",
             "repo": "Turtle",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         }
       ],
       "title": "(Multi-image/Video)-Motion-Deblurring"
@@ -2005,7 +2136,8 @@
             "owner": "chaehomie",
             "repo": "Joint_Depth_Esimation_and_Deblur",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2020,7 +2152,8 @@
             "owner": "sczhou",
             "repo": "DAVANet",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2035,7 +2168,8 @@
             "owner": "diegovalsesia",
             "repo": "lidardeblurring",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         }
       ],
       "title": "Depth-Aware Motion Deblurring"
@@ -2056,7 +2190,8 @@
             "owner": "nasa-jpl",
             "repo": "pmapper",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2071,7 +2206,8 @@
             "owner": "MeiguangJin",
             "repo": "Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2086,7 +2222,8 @@
             "owner": "panpanfei",
             "repo": "Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2101,7 +2238,8 @@
             "owner": "MeiguangJin",
             "repo": "slow-motion",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2115,8 +2253,9 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38631
-          }
+            "stars": 38641
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2131,7 +2270,8 @@
             "owner": "KeqiangSun",
             "repo": "FAB",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2146,7 +2286,8 @@
             "owner": "tsingqguo",
             "repo": "ABBA",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2161,7 +2302,8 @@
             "owner": "zzh-tech",
             "repo": "RSCD",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2176,7 +2318,8 @@
             "owner": "xufangchn",
             "repo": "Motion-Deblurring-with-Real-Events",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2191,7 +2334,8 @@
             "owner": "shangwei5",
             "repo": "D2Net",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2206,7 +2350,8 @@
             "owner": "zzh-tech",
             "repo": "Animation-from-Blur",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2221,7 +2366,8 @@
             "owner": "rimchang",
             "repo": "RSBlur",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2236,7 +2382,8 @@
             "owner": "zzh-tech",
             "repo": "BiT",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2251,7 +2398,8 @@
             "owner": "aka-discover",
             "repo": "CCMBA_CVPR23",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2266,7 +2414,8 @@
             "owner": "JaehaKim97",
             "repo": "BlurHand_RELEASE",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2281,7 +2430,8 @@
             "owner": "zzh-tech",
             "repo": "BiT",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2296,7 +2446,8 @@
             "owner": "AHupuJR",
             "repo": "REFID",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2311,7 +2462,8 @@
             "owner": "VinAIResearch",
             "repo": "HyperCUT",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2326,7 +2478,8 @@
             "owner": "WarranWeng",
             "repo": "EBFI-BE",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2341,7 +2494,8 @@
             "owner": "XiangZ-0",
             "repo": "GEM",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2356,7 +2510,8 @@
             "owner": "radimspetlik",
             "repo": "SI-DDPM-FMO",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2371,7 +2526,8 @@
             "owner": "Leozhangjiyuan",
             "repo": "UaSDN",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2386,7 +2542,8 @@
             "owner": "jixiang2016",
             "repo": "dualBR",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         }
       ],
       "title": "Other Closely Related Works"
@@ -2407,7 +2564,8 @@
             "owner": "ZHANGXinxinPKU",
             "repo": "defocus-deblurring",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2422,7 +2580,8 @@
             "owner": "isalirezag",
             "repo": "HiFST",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2437,7 +2596,8 @@
             "owner": "zzangjinsun",
             "repo": "DHDE_CVPR17",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2452,7 +2612,8 @@
             "owner": "pratulsrinivasan",
             "repo": "Local_Light_Field_Synthesis",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2467,7 +2628,8 @@
             "owner": "marcelampc",
             "repo": "d3net_depth_estimation",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2482,7 +2644,8 @@
             "owner": "HyeongseokSon1",
             "repo": "deep_blur_detection_and_classification",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2497,7 +2660,8 @@
             "owner": "alikaraali",
             "repo": "edge-based-dfe-tip2018",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2512,7 +2676,8 @@
             "owner": "codeslake",
             "repo": "DMENet",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2526,8 +2691,9 @@
             "last_commit": "2022-02-16T14:00:54Z",
             "owner": "Abdullah-Abuolaim",
             "repo": "defocus-deblurring-dual-pixel",
-            "stars": 220
-          }
+            "stars": 221
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2542,7 +2708,8 @@
             "owner": "vinthony",
             "repo": "depth-distillation",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2557,7 +2724,8 @@
             "owner": "binorchen",
             "repo": "AIFNET",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2572,7 +2740,8 @@
             "owner": "codeslake",
             "repo": "IFAN",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2587,7 +2756,8 @@
             "owner": "shangcai1",
             "repo": "SG",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2602,7 +2772,8 @@
             "owner": "panpanfei",
             "repo": "Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2617,7 +2788,8 @@
             "owner": "tuvovan",
             "repo": "ATTSF",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2632,7 +2804,8 @@
             "owner": "HyeongseokSon1",
             "repo": "KPAC",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2647,7 +2820,8 @@
             "owner": "Abdullah-Abuolaim",
             "repo": "recurrent-defocus-deblurring-synth-dual-pixel",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2662,7 +2836,8 @@
             "owner": "Abdullah-Abuolaim",
             "repo": "multi-task-defocus-deblurring-dual-pixel-nimat",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2677,7 +2852,8 @@
             "owner": "lingyanruan",
             "repo": "DRBNet",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2692,7 +2868,8 @@
             "owner": "wdzhao123",
             "repo": "APL",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2707,7 +2884,8 @@
             "owner": "liyucs",
             "repo": "JDRL",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2722,7 +2900,8 @@
             "owner": "ByChelsea",
             "repo": "CMOS",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2737,7 +2916,8 @@
             "owner": "csZcWu",
             "repo": "NRKNet",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2752,7 +2932,8 @@
             "owner": "greatlog",
             "repo": "RealDAN",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2767,7 +2948,8 @@
             "owner": "lingyanruan",
             "repo": "LaKDNet",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2782,7 +2964,8 @@
             "owner": "PieceZhang",
             "repo": "MPT-CataBlur",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2797,7 +2980,8 @@
             "owner": "noxsine",
             "repo": "LDP",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         }
       ],
       "title": "Defocus Deblurring and Potential Datasets"
@@ -2818,7 +3002,8 @@
             "owner": "SeungjunNah",
             "repo": "DeepDeblur_release",
             "stars": 735
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2833,7 +3018,8 @@
             "owner": "joanshen0508",
             "repo": "HA_deblur",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2848,7 +3034,8 @@
             "owner": "HDCVLab",
             "repo": "Deblurring-by-Realistic-Blurring",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2863,7 +3050,8 @@
             "owner": "zzh-tech",
             "repo": "ESTRNN",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2878,7 +3066,8 @@
             "owner": "zzh-tech",
             "repo": "RSCD",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2893,7 +3082,8 @@
             "owner": "HDCVLab",
             "repo": "MC-Blur-Dataset",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2908,7 +3098,8 @@
             "owner": "rimchang",
             "repo": "RSBlur",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2923,7 +3114,8 @@
             "owner": "zzh-tech",
             "repo": "ESTRNN",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2938,7 +3130,8 @@
             "owner": "zzh-tech",
             "repo": "BiT",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         },
         {
           "node_type": "item",
@@ -2953,14 +3146,15 @@
             "owner": "LeiaLi",
             "repo": "ReLoBlur",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:03:39.758Z"
         }
       ],
       "title": "Benchmark Datasets on Motion Deblurring"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:06:00.974Z",
+    "last_updated": "2026-08-28T21:03:39.758Z",
     "original_repository_info": {
       "archived": false,
       "id": 197458822,
