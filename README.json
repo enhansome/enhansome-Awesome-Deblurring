@@ -3311,7 +3311,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38649,
             "topics": [
               "ai",
               "machine-learning",
@@ -3944,7 +3944,7 @@
             "open_issues": 3,
             "owner": "codeslake",
             "repo": "DMENet",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "cvpr2019",
               "deep-learning",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:35.639Z",
+    "last_updated": "2026-08-29T14:53:57.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
@@ -4717,7 +4717,7 @@
       "open_issues": 1,
       "owner": "subeeshvasu",
       "repo": "Awesome-Deblurring",
-      "stars": 2912,
+      "stars": 2913,
       "topics": [
         "burst-deblurring",
         "camera-shake",
