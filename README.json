@@ -935,7 +935,7 @@
             "open_issues": 55,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2629,
+            "stars": 2630,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1035,7 +1035,7 @@
             "open_issues": 8,
             "owner": "XLearning-SCU",
             "repo": "2022-CVPR-AirNet",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "dehazing",
               "denoising",
@@ -1103,7 +1103,7 @@
             "open_issues": 131,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3149,
+            "stars": 3150,
             "topics": [
               "deblur",
               "denoise",
@@ -3108,7 +3108,7 @@
             "open_issues": 2,
             "owner": "Ascend-Research",
             "repo": "Turtle",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "deblurring",
               "denoising",
@@ -3311,7 +3311,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38659,
+            "stars": 38665,
             "topics": [
               "ai",
               "machine-learning",
@@ -4052,7 +4052,7 @@
             "open_issues": 4,
             "owner": "codeslake",
             "repo": "IFAN",
-            "stars": 254,
+            "stars": 255,
             "topics": [
               "cvpr2021",
               "deep-learning",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:21:08.091Z",
+    "last_updated": "2026-09-01T14:27:43.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
