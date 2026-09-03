@@ -270,7 +270,7 @@
             "open_issues": 31,
             "owner": "jiangsutx",
             "repo": "SRN-Deblur",
-            "stars": 762,
+            "stars": 761,
             "topics": [
               "computer-vision",
               "deblurring",
@@ -935,7 +935,7 @@
             "open_issues": 55,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2630,
+            "stars": 2631,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1006,7 +1006,7 @@
             "open_issues": 48,
             "owner": "ZhendongWang6",
             "repo": "Uformer",
-            "stars": 944,
+            "stars": 945,
             "topics": [
               "deep-learning",
               "image-deblurring",
@@ -1103,7 +1103,7 @@
             "open_issues": 131,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3150,
+            "stars": 3151,
             "topics": [
               "deblur",
               "denoise",
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:53:17Z",
+            "last_commit": "2026-09-03T08:28:07Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38678,
+            "stars": 38689,
             "topics": [
               "ai",
               "machine-learning",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:01:06.265Z",
+    "last_updated": "2026-09-03T14:03:37.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
