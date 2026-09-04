@@ -935,7 +935,7 @@
             "open_issues": 55,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2631,
+            "stars": 2632,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1103,7 +1103,7 @@
             "open_issues": 131,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3151,
+            "stars": 3152,
             "topics": [
               "deblur",
               "denoise",
@@ -1482,7 +1482,7 @@
             "open_issues": 12,
             "owner": "thqiu0419",
             "repo": "MLWNet",
-            "stars": 99,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1590,7 +1590,7 @@
             "open_issues": 2,
             "owner": "nachifur",
             "repo": "RDDM",
-            "stars": 580,
+            "stars": 581,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1770,7 +1770,7 @@
             "open_issues": 11,
             "owner": "cszn",
             "repo": "IRCNN",
-            "stars": 609,
+            "stars": 610,
             "topics": [
               "color-demosaicking",
               "deep-model",
@@ -2737,7 +2737,7 @@
             "open_issues": 5,
             "owner": "TencentCloud",
             "repo": "ERDN",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:03:37.206Z",
+    "last_updated": "2026-09-04T13:56:20.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
