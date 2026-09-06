@@ -3308,10 +3308,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T08:28:07Z",
-            "open_issues": 1989,
+            "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38693,
+            "stars": 38694,
             "topics": [
               "ai",
               "machine-learning",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:11:48.172Z",
+    "last_updated": "2026-09-06T13:20:43.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
@@ -4717,7 +4717,7 @@
       "open_issues": 1,
       "owner": "subeeshvasu",
       "repo": "Awesome-Deblurring",
-      "stars": 2913,
+      "stars": 2914,
       "topics": [
         "burst-deblurring",
         "camera-shake",
