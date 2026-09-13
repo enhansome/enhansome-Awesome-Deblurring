@@ -3311,7 +3311,7 @@
             "open_issues": 1992,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38741,
+            "stars": 38747,
             "topics": [
               "ai",
               "machine-learning",
@@ -4481,7 +4481,7 @@
             "open_issues": 9,
             "owner": "joanshen0508",
             "repo": "HA_deblur",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "hide-dataset",
               "human-aware-motion-deblurring",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:18:21.170Z",
+    "last_updated": "2026-09-13T14:01:13.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
