@@ -676,7 +676,7 @@
             "open_issues": 37,
             "owner": "swz30",
             "repo": "MPRNet",
-            "stars": 1394,
+            "stars": 1395,
             "topics": [
               "computer-vision",
               "cvpr-2021",
@@ -790,7 +790,7 @@
             "open_issues": 37,
             "owner": "swz30",
             "repo": "MPRNet",
-            "stars": 1394,
+            "stars": 1395,
             "topics": [
               "computer-vision",
               "cvpr-2021",
@@ -935,7 +935,7 @@
             "open_issues": 56,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2641,
+            "stars": 2643,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1103,7 +1103,7 @@
             "open_issues": 132,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3164,
+            "stars": 3167,
             "topics": [
               "deblur",
               "denoise",
@@ -1341,7 +1341,7 @@
             "open_issues": 28,
             "owner": "kkkls",
             "repo": "FFTformer",
-            "stars": 395,
+            "stars": 396,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1590,7 +1590,7 @@
             "open_issues": 3,
             "owner": "nachifur",
             "repo": "RDDM",
-            "stars": 582,
+            "stars": 583,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1888,7 +1888,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8090,
+            "stars": 8091,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T00:21:25Z",
-            "open_issues": 1993,
+            "last_commit": "2026-09-15T13:04:33Z",
+            "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38755,
+            "stars": 38768,
             "topics": [
               "ai",
               "machine-learning",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:06:49.465Z",
+    "last_updated": "2026-09-15T14:35:41.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
