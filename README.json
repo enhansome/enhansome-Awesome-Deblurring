@@ -436,7 +436,7 @@
             "open_issues": 70,
             "owner": "VITA-Group",
             "repo": "DeblurGANv2",
-            "stars": 1194,
+            "stars": 1195,
             "topics": [
               "deblurgan",
               "deep-learning",
@@ -466,7 +466,7 @@
             "open_issues": 70,
             "owner": "VITA-Group",
             "repo": "DeblurGANv2",
-            "stars": 1194,
+            "stars": 1195,
             "topics": [
               "deblurgan",
               "deep-learning",
@@ -3311,7 +3311,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38849,
+            "stars": 38854,
             "topics": [
               "ai",
               "machine-learning",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:17:44.310Z",
+    "last_updated": "2026-09-30T16:13:05.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
