@@ -373,7 +373,7 @@
             "open_issues": 27,
             "owner": "HongguangZhang",
             "repo": "DMPHN-cvpr19-master",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -538,7 +538,7 @@
             "open_issues": 3,
             "owner": "rajeevyasarla",
             "repo": "UMSN-Face-Deblurring",
-            "stars": 123,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1103,7 +1103,7 @@
             "open_issues": 133,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3181,
+            "stars": 3182,
             "topics": [
               "deblur",
               "denoise",
@@ -3311,7 +3311,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38858,
+            "stars": 38860,
             "topics": [
               "ai",
               "machine-learning",
@@ -3696,7 +3696,7 @@
             "open_issues": 13,
             "owner": "XiangZ-0",
             "repo": "GEM",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "event",
               "event-camera",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:50:11.368Z",
+    "last_updated": "2026-10-02T16:03:31.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
