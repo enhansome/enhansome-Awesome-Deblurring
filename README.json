@@ -1965,7 +1965,7 @@
         {
           "node_type": "item",
           "title": "Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring",
-          "description": null,
+          "description": "ysnan/VEM-NBD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1986,7 +1986,7 @@
         {
           "node_type": "item",
           "title": "Project page & Results-on-benchmark-datasets",
-          "description": null,
+          "description": "ysnan/VEM-NBD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2007,7 +2007,7 @@
         {
           "node_type": "item",
           "title": "Deep Learning for Handling Kernel/model Uncertainty in Image Deconvolution",
-          "description": null,
+          "description": "ysnan/NBD_KerUnc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2028,7 +2028,7 @@
         {
           "node_type": "item",
           "title": "Project page & Results-on-benchmark-datasets",
-          "description": null,
+          "description": "ysnan/NBD_KerUnc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2373,7 +2373,7 @@
         {
           "node_type": "item",
           "title": "themathgeek13/STdeblur",
-          "description": null,
+          "description": "themathgeek13/STdeblur",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2394,7 +2394,7 @@
         {
           "node_type": "item",
           "title": "Project page",
-          "description": null,
+          "description": "JLtwoP/Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2829,7 +2829,7 @@
         {
           "node_type": "item",
           "title": "Sharp-NeRF: Grid-Based Fast Deblurring Neural Radiance Fields Using Sharpness Prior",
-          "description": null,
+          "description": "radimspetlik/SI-DDPM-FMO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2850,7 +2850,7 @@
         {
           "node_type": "item",
           "title": "benhenryL/SharpNeRF",
-          "description": null,
+          "description": "benhenryL/SharpNeRF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3311,7 +3311,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38860,
+            "stars": 38862,
             "topics": [
               "ai",
               "machine-learning",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:03:31.536Z",
+    "last_updated": "2026-10-03T04:24:46.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
