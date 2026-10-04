@@ -295,7 +295,7 @@
             "open_issues": 148,
             "owner": "KupynOrest",
             "repo": "DeblurGAN",
-            "stars": 2639,
+            "stars": 2638,
             "topics": [
               "blurry-images",
               "computer-vision",
@@ -436,7 +436,7 @@
             "open_issues": 70,
             "owner": "VITA-Group",
             "repo": "DeblurGANv2",
-            "stars": 1195,
+            "stars": 1196,
             "topics": [
               "deblurgan",
               "deep-learning",
@@ -466,7 +466,7 @@
             "open_issues": 70,
             "owner": "VITA-Group",
             "repo": "DeblurGANv2",
-            "stars": 1195,
+            "stars": 1196,
             "topics": [
               "deblurgan",
               "deep-learning",
@@ -1103,7 +1103,7 @@
             "open_issues": 133,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3182,
+            "stars": 3183,
             "topics": [
               "deblur",
               "denoise",
@@ -1632,7 +1632,7 @@
             "open_issues": 4,
             "owner": "ZhijingS",
             "repo": "DA_event_deblur",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -3308,10 +3308,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T21:03:49Z",
-            "open_issues": 1996,
+            "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38868,
+            "stars": 38871,
             "topics": [
               "ai",
               "machine-learning",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:30:23.289Z",
+    "last_updated": "2026-10-04T15:05:46.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
