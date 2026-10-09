@@ -935,7 +935,7 @@
             "open_issues": 56,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2652,
+            "stars": 2654,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1103,7 +1103,7 @@
             "open_issues": 133,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3187,
+            "stars": 3189,
             "topics": [
               "deblur",
               "denoise",
@@ -1545,7 +1545,7 @@
             "open_issues": 3,
             "owner": "KAIST-VICLab",
             "repo": "FMA-Net",
-            "stars": 704,
+            "stars": 705,
             "topics": [
               "deblurring",
               "super-resolution"
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T12:15:45Z",
-            "open_issues": 1997,
+            "last_commit": "2026-10-08T17:38:14Z",
+            "open_issues": 1998,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38883,
+            "stars": 38888,
             "topics": [
               "ai",
               "machine-learning",
@@ -4705,7 +4705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:07:32.944Z",
+    "last_updated": "2026-10-09T16:45:50.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
