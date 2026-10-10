@@ -676,7 +676,7 @@
             "open_issues": 37,
             "owner": "swz30",
             "repo": "MPRNet",
-            "stars": 1396,
+            "stars": 1395,
             "topics": [
               "computer-vision",
               "cvpr-2021",
@@ -790,7 +790,7 @@
             "open_issues": 37,
             "owner": "swz30",
             "repo": "MPRNet",
-            "stars": 1396,
+            "stars": 1395,
             "topics": [
               "computer-vision",
               "cvpr-2021",
@@ -968,7 +968,7 @@
             "open_issues": 19,
             "owner": "google-research",
             "repo": "maxim",
-            "stars": 1085,
+            "stars": 1084,
             "topics": [
               "architecture",
               "computer-vision",
@@ -1103,7 +1103,7 @@
             "open_issues": 133,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3189,
+            "stars": 3190,
             "topics": [
               "deblur",
               "denoise",
@@ -1341,7 +1341,7 @@
             "open_issues": 28,
             "owner": "kkkls",
             "repo": "FFTformer",
-            "stars": 400,
+            "stars": 399,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1520,8 +1520,8 @@
             "id": 786689363,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-01-07T03:06:16Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-10T01:00:03Z",
+            "open_issues": 33,
             "owner": "INVOKERer",
             "repo": "AdaRevD",
             "stars": 96,
@@ -2209,27 +2209,6 @@
         },
         {
           "node_type": "item",
-          "title": "xl-tang3/UAUDeblur",
-          "description": "CVPR Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "(CVPR' 23) Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior",
-            "homepage": null,
-            "id": 608041637,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-10-22T10:41:30Z",
-            "open_issues": 1,
-            "owner": "xl-tang3",
-            "repo": "UAUDeblur",
-            "stars": 75,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:03:39.758Z"
-        },
-        {
-          "node_type": "item",
           "title": "fayolle/clean_noisy_defilter",
           "description": "SIVP Reverse image filtering with clean and noisy filters",
           "children": [],
@@ -2737,7 +2716,7 @@
             "open_issues": 5,
             "owner": "TencentCloud",
             "repo": "ERDN",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -3307,11 +3286,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T17:38:14Z",
+            "last_commit": "2026-10-10T14:34:09Z",
             "open_issues": 1998,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38888,
+            "stars": 38887,
             "topics": [
               "ai",
               "machine-learning",
@@ -4052,7 +4031,7 @@
             "open_issues": 4,
             "owner": "codeslake",
             "repo": "IFAN",
-            "stars": 255,
+            "stars": 253,
             "topics": [
               "cvpr2021",
               "deep-learning",
@@ -4705,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:45:50.101Z",
+    "last_updated": "2026-10-10T15:39:43.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
