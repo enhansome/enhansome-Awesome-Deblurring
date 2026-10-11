@@ -634,7 +634,7 @@
             "open_issues": 3,
             "owner": "yjzhang96",
             "repo": "Motion-ETR",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -935,7 +935,7 @@
             "open_issues": 56,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2654,
+            "stars": 2655,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1888,7 +1888,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8092,
+            "stars": 8091,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -3287,10 +3287,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T14:34:09Z",
-            "open_issues": 1998,
+            "open_issues": 2005,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38887,
+            "stars": 38895,
             "topics": [
               "ai",
               "machine-learning",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:39:43.631Z",
+    "last_updated": "2026-10-11T16:06:05.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
