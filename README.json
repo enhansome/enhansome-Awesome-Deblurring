@@ -436,7 +436,7 @@
             "open_issues": 70,
             "owner": "VITA-Group",
             "repo": "DeblurGANv2",
-            "stars": 1196,
+            "stars": 1195,
             "topics": [
               "deblurgan",
               "deep-learning",
@@ -466,7 +466,7 @@
             "open_issues": 70,
             "owner": "VITA-Group",
             "repo": "DeblurGANv2",
-            "stars": 1196,
+            "stars": 1195,
             "topics": [
               "deblurgan",
               "deep-learning",
@@ -710,7 +710,7 @@
             "open_issues": 1,
             "owner": "rozumden",
             "repo": "DeFMO",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "cvpr2021",
               "dataset",
@@ -935,7 +935,7 @@
             "open_issues": 56,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2656,
+            "stars": 2657,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1103,7 +1103,7 @@
             "open_issues": 133,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3192,
+            "stars": 3193,
             "topics": [
               "deblur",
               "denoise",
@@ -3286,11 +3286,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:27:55Z",
+            "last_commit": "2026-10-14T05:46:02Z",
             "open_issues": 2005,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38908,
+            "stars": 38912,
             "topics": [
               "ai",
               "machine-learning",
@@ -3882,27 +3882,6 @@
             "owner": "HyeongseokSon1",
             "repo": "deep_blur_detection_and_classification",
             "stars": 74,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:03:39.758Z"
-        },
-        {
-          "node_type": "item",
-          "title": "a1x3k/edge-based-dfe-tip2018",
-          "description": "TIP Edge-based defocus blur estimation with adaptive scale selection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A. Karaali, CR. Jung, \"Edge-Based Defocus Blur Estimation with Adaptive Scale Selection\", IEEE Transactions on Image Processing (TIP 2018), 2018",
-            "homepage": null,
-            "id": 128910117,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-06T18:50:47Z",
-            "open_issues": 0,
-            "owner": "a1x3k",
-            "repo": "edge-based-dfe-tip2018",
-            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -4684,7 +4663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:18:01.490Z",
+    "last_updated": "2026-10-14T14:50:04.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
@@ -4696,7 +4675,7 @@
       "open_issues": 1,
       "owner": "subeeshvasu",
       "repo": "Awesome-Deblurring",
-      "stars": 2918,
+      "stars": 2919,
       "topics": [
         "burst-deblurring",
         "camera-shake",
