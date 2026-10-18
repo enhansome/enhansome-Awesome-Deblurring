@@ -1035,7 +1035,7 @@
             "open_issues": 8,
             "owner": "XLearning-SCU",
             "repo": "2022-CVPR-AirNet",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "dehazing",
               "denoising",
@@ -1888,7 +1888,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8093,
+            "stars": 8094,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -3290,7 +3290,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38927,
+            "stars": 38936,
             "topics": [
               "ai",
               "machine-learning",
@@ -4010,7 +4010,7 @@
             "open_issues": 4,
             "owner": "codeslake",
             "repo": "IFAN",
-            "stars": 252,
+            "stars": 251,
             "topics": [
               "cvpr2021",
               "deep-learning",
@@ -4663,7 +4663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:24:52.626Z",
+    "last_updated": "2026-10-18T13:43:23.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
