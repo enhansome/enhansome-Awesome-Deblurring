@@ -1100,10 +1100,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-03T13:26:24Z",
-            "open_issues": 133,
+            "open_issues": 134,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3200,
+            "stars": 3203,
             "topics": [
               "deblur",
               "denoise",
@@ -1230,7 +1230,7 @@
             "open_issues": 20,
             "owner": "AHupuJR",
             "repo": "EFNet",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "deblurring",
               "eccv2022",
@@ -3290,7 +3290,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38957,
+            "stars": 38980,
             "topics": [
               "ai",
               "machine-learning",
@@ -4663,7 +4663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:45:04.855Z",
+    "last_updated": "2026-10-20T14:37:13.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
