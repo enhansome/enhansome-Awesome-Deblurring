@@ -935,7 +935,7 @@
             "open_issues": 56,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2666,
+            "stars": 2669,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1035,7 +1035,7 @@
             "open_issues": 8,
             "owner": "XLearning-SCU",
             "repo": "2022-CVPR-AirNet",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "dehazing",
               "denoising",
@@ -1103,7 +1103,7 @@
             "open_issues": 135,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3211,
+            "stars": 3213,
             "topics": [
               "deblur",
               "denoise",
@@ -1674,7 +1674,7 @@
             "open_issues": 6,
             "owner": "hmyang0727",
             "repo": "GyroDeblurNet",
-            "stars": 40,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1888,7 +1888,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8094,
+            "stars": 8093,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -2590,7 +2590,7 @@
             "open_issues": 2,
             "owner": "codeslake",
             "repo": "PVDNet",
-            "stars": 115,
+            "stars": 117,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -2792,7 +2792,7 @@
             "open_issues": 3,
             "owner": "codeslake",
             "repo": "RealTime_VDBLR",
-            "stars": 58,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -2950,7 +2950,7 @@
             "open_issues": 0,
             "owner": "WU-CVGL",
             "repo": "BAD-NeRF",
-            "stars": 201,
+            "stars": 200,
             "topics": [
               "3d-vision",
               "deblurring",
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T00:00:25Z",
+            "last_commit": "2026-10-26T00:43:54Z",
             "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39023,
+            "stars": 39037,
             "topics": [
               "ai",
               "machine-learning",
@@ -3478,7 +3478,7 @@
             "open_issues": 2,
             "owner": "rimchang",
             "repo": "RSBlur",
-            "stars": 119,
+            "stars": 121,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -4031,7 +4031,7 @@
             "open_issues": 4,
             "owner": "codeslake",
             "repo": "IFAN",
-            "stars": 251,
+            "stars": 253,
             "topics": [
               "cvpr2021",
               "deep-learning",
@@ -4125,7 +4125,7 @@
             "open_issues": 1,
             "owner": "HyeongseokSon1",
             "repo": "KPAC",
-            "stars": 64,
+            "stars": 66,
             "topics": [
               "cnn-model",
               "deblurring",
@@ -4584,7 +4584,7 @@
             "open_issues": 2,
             "owner": "rimchang",
             "repo": "RSBlur",
-            "stars": 119,
+            "stars": 121,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:03:27.542Z",
+    "last_updated": "2026-10-26T16:25:07.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
@@ -4696,7 +4696,7 @@
       "open_issues": 1,
       "owner": "subeeshvasu",
       "repo": "Awesome-Deblurring",
-      "stars": 2918,
+      "stars": 2919,
       "topics": [
         "burst-deblurring",
         "camera-shake",
