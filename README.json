@@ -676,7 +676,7 @@
             "open_issues": 37,
             "owner": "swz30",
             "repo": "MPRNet",
-            "stars": 1397,
+            "stars": 1398,
             "topics": [
               "computer-vision",
               "cvpr-2021",
@@ -790,7 +790,7 @@
             "open_issues": 37,
             "owner": "swz30",
             "repo": "MPRNet",
-            "stars": 1397,
+            "stars": 1398,
             "topics": [
               "computer-vision",
               "cvpr-2021",
@@ -1103,7 +1103,7 @@
             "open_issues": 135,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3215,
+            "stars": 3217,
             "topics": [
               "deblur",
               "denoise",
@@ -2561,7 +2561,7 @@
             "open_issues": 1,
             "owner": "zzh-tech",
             "repo": "ESTRNN",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "dataset",
               "deblurring",
@@ -2813,7 +2813,7 @@
             "open_issues": 1,
             "owner": "zzh-tech",
             "repo": "ESTRNN",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "dataset",
               "deblurring",
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T20:10:08Z",
+            "last_commit": "2026-10-28T13:44:13Z",
             "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39042,
+            "stars": 39047,
             "topics": [
               "ai",
               "machine-learning",
@@ -4506,7 +4506,7 @@
             "open_issues": 1,
             "owner": "zzh-tech",
             "repo": "ESTRNN",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "dataset",
               "deblurring",
@@ -4605,7 +4605,7 @@
             "open_issues": 1,
             "owner": "zzh-tech",
             "repo": "ESTRNN",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "dataset",
               "deblurring",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:40:21.366Z",
+    "last_updated": "2026-10-28T16:23:46.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
