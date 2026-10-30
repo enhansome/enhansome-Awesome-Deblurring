@@ -1103,7 +1103,7 @@
             "open_issues": 135,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3218,
+            "stars": 3219,
             "topics": [
               "deblur",
               "denoise",
@@ -1134,7 +1134,7 @@
             "open_issues": 2,
             "owner": "zhaoyuzhi",
             "repo": "D2HNet",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1338,7 +1338,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-04-21T15:09:29Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "kkkls",
             "repo": "FFTformer",
             "stars": 399,
@@ -1888,7 +1888,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8092,
+            "stars": 8093,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T13:44:13Z",
+            "last_commit": "2026-10-30T11:22:45Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39057,
+            "stars": 39063,
             "topics": [
               "ai",
               "machine-learning",
@@ -3696,7 +3696,7 @@
             "open_issues": 13,
             "owner": "XiangZ-0",
             "repo": "GEM",
-            "stars": 48,
+            "stars": 47,
             "topics": [
               "event",
               "event-camera",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:32:59.670Z",
+    "last_updated": "2026-10-30T16:27:26.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
