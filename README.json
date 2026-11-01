@@ -1006,7 +1006,7 @@
             "open_issues": 49,
             "owner": "ZhendongWang6",
             "repo": "Uformer",
-            "stars": 948,
+            "stars": 949,
             "topics": [
               "deep-learning",
               "image-deblurring",
@@ -1103,7 +1103,7 @@
             "open_issues": 135,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3219,
+            "stars": 3218,
             "topics": [
               "deblur",
               "denoise",
@@ -1226,7 +1226,7 @@
             "id": 514049544,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2025-02-08T12:27:41Z",
+            "last_commit": "2026-10-31T21:40:32Z",
             "open_issues": 20,
             "owner": "AHupuJR",
             "repo": "EFNet",
@@ -3311,7 +3311,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39070,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -3951,7 +3951,7 @@
             "open_issues": 3,
             "owner": "Abdullah-Abuolaim",
             "repo": "defocus-deblurring-dual-pixel",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "autofocus",
               "computational-photography",
@@ -4031,7 +4031,7 @@
             "open_issues": 4,
             "owner": "codeslake",
             "repo": "IFAN",
-            "stars": 260,
+            "stars": 259,
             "topics": [
               "cvpr2021",
               "deep-learning",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:34:24.993Z",
+    "last_updated": "2026-11-01T16:32:31.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
@@ -4696,7 +4696,7 @@
       "open_issues": 1,
       "owner": "subeeshvasu",
       "repo": "Awesome-Deblurring",
-      "stars": 2920,
+      "stars": 2919,
       "topics": [
         "burst-deblurring",
         "camera-shake",
