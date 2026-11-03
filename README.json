@@ -1103,7 +1103,7 @@
             "open_issues": 135,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3220,
+            "stars": 3221,
             "topics": [
               "deblur",
               "denoise",
@@ -1230,7 +1230,7 @@
             "open_issues": 20,
             "owner": "AHupuJR",
             "repo": "EFNet",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "deblurring",
               "eccv2022",
@@ -1951,7 +1951,7 @@
             "open_issues": 13,
             "owner": "cszn",
             "repo": "DPSR",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "blurry-images",
               "plug-and-play",
@@ -3311,7 +3311,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39096,
+            "stars": 39101,
             "topics": [
               "ai",
               "machine-learning",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:56:14.943Z",
+    "last_updated": "2026-11-03T17:28:15.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
