@@ -1103,7 +1103,7 @@
             "open_issues": 135,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3222,
+            "stars": 3223,
             "topics": [
               "deblur",
               "denoise",
@@ -1383,7 +1383,7 @@
             "open_issues": 20,
             "owner": "zhengchen1999",
             "repo": "HI-Diff",
-            "stars": 253,
+            "stars": 254,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1461,7 +1461,7 @@
             "open_issues": 4,
             "owner": "ChengxuLiu",
             "repo": "MISCFilter",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -2407,7 +2407,7 @@
             "open_issues": 0,
             "owner": "JLtwoP",
             "repo": "Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -2540,7 +2540,7 @@
             "open_issues": 1,
             "owner": "laomao0",
             "repo": "BIN",
-            "stars": 216,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T16:34:57Z",
+            "last_commit": "2026-11-06T18:41:04Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39123,
+            "stars": 39125,
             "topics": [
               "ai",
               "machine-learning",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:05:59.418Z",
+    "last_updated": "2026-11-07T16:02:10.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
