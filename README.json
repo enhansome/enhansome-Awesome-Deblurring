@@ -935,7 +935,7 @@
             "open_issues": 56,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2672,
+            "stars": 2673,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1479,7 +1479,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-29T16:55:29Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "thqiu0419",
             "repo": "MLWNet",
             "stars": 100,
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T18:41:04Z",
+            "last_commit": "2026-11-09T18:10:16Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39136,
+            "stars": 39145,
             "topics": [
               "ai",
               "machine-learning",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:28:48.927Z",
+    "last_updated": "2026-11-09T20:21:16.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
@@ -4696,7 +4696,7 @@
       "open_issues": 1,
       "owner": "subeeshvasu",
       "repo": "Awesome-Deblurring",
-      "stars": 2920,
+      "stars": 2921,
       "topics": [
         "burst-deblurring",
         "camera-shake",
