@@ -204,7 +204,7 @@
             "open_issues": 3,
             "owner": "SeungjunNah",
             "repo": "DeepDeblur_release",
-            "stars": 736,
+            "stars": 735,
             "topics": [
               "deblurring",
               "dynamic-scene"
@@ -270,7 +270,7 @@
             "open_issues": 31,
             "owner": "jiangsutx",
             "repo": "SRN-Deblur",
-            "stars": 762,
+            "stars": 763,
             "topics": [
               "computer-vision",
               "deblurring",
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T16:31:35Z",
+            "last_commit": "2026-11-17T17:57:37Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39194,
+            "stars": 39207,
             "topics": [
               "ai",
               "machine-learning",
@@ -4436,7 +4436,7 @@
             "open_issues": 3,
             "owner": "SeungjunNah",
             "repo": "DeepDeblur_release",
-            "stars": 736,
+            "stars": 735,
             "topics": [
               "deblurring",
               "dynamic-scene"
@@ -4460,7 +4460,7 @@
             "open_issues": 9,
             "owner": "joanshen0508",
             "repo": "HA_deblur",
-            "stars": 81,
+            "stars": 80,
             "topics": [
               "hide-dataset",
               "human-aware-motion-deblurring",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:57:50.236Z",
+    "last_updated": "2026-11-17T18:54:15.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
