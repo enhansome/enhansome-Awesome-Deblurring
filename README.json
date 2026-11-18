@@ -769,7 +769,7 @@
             "open_issues": 22,
             "owner": "huawei-noah",
             "repo": "Pretrained-IPT",
-            "stars": 470,
+            "stars": 471,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -1103,7 +1103,7 @@
             "open_issues": 135,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3226,
+            "stars": 3227,
             "topics": [
               "deblur",
               "denoise",
@@ -1257,7 +1257,7 @@
             "open_issues": 1,
             "owner": "ZHIQIANGHU2021",
             "repo": "DecomposedDynamicFilters",
-            "stars": 3,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -3311,7 +3311,7 @@
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39207,
+            "stars": 39223,
             "topics": [
               "ai",
               "machine-learning",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:54:15.336Z",
+    "last_updated": "2026-11-18T18:35:08.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
