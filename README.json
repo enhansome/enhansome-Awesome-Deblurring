@@ -129,7 +129,7 @@
             "open_issues": 4,
             "owner": "FWen",
             "repo": "deblur-pmp",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T21:03:39.758Z"
@@ -935,7 +935,7 @@
             "open_issues": 56,
             "owner": "swz30",
             "repo": "Restormer",
-            "stars": 2677,
+            "stars": 2678,
             "topics": [
               "cvpr2022",
               "defocus-deblurring",
@@ -1103,7 +1103,7 @@
             "open_issues": 135,
             "owner": "megvii-research",
             "repo": "NAFNet",
-            "stars": 3227,
+            "stars": 3230,
             "topics": [
               "deblur",
               "denoise",
@@ -3307,11 +3307,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T17:57:37Z",
+            "last_commit": "2026-11-19T15:52:19Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39223,
+            "stars": 39233,
             "topics": [
               "ai",
               "machine-learning",
@@ -3696,7 +3696,7 @@
             "open_issues": 13,
             "owner": "XiangZ-0",
             "repo": "GEM",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "event",
               "event-camera",
@@ -4684,7 +4684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:35:08.354Z",
+    "last_updated": "2026-11-19T18:47:02.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Image and Video Deblurring",
